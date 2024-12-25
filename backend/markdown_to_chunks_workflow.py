@@ -2,7 +2,7 @@ import logging
 import time
 from pathlib import Path
 
-from docling.document_converter import DocumentConverter, PdfFormatOption
+from docling.document_converter import DocumentConverter, PdfFormatOption, MarkdownFormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import PdfPipelineOptions
 from docling.chunking import HybridChunker
@@ -20,20 +20,21 @@ IMAGE_RESOLUTION_SCALE = 2.0
 def convert_pdf_to_markdown(input_pdf_path):
     """Convert PDF to markdown using docling."""
     # Configure PDF pipeline options
-    pipeline_options = PdfPipelineOptions()
-    pipeline_options.images_scale = IMAGE_RESOLUTION_SCALE
-    pipeline_options.generate_page_images = True
-    pipeline_options.generate_picture_images = True
+    # pipeline_options = PdfPipelineOptions()
+    # pipeline_options.images_scale = IMAGE_RESOLUTION_SCALE
+    # pipeline_options.generate_page_images = True
+    # pipeline_options.generate_picture_images = True
 
     # Initialize document converter
     doc_converter = DocumentConverter(
         format_options={
-            InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)
+            # InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options),
+            InputFormat.MD: MarkdownFormatOption()
         }
     )
 
     # Convert document
-    _log.info(f"Converting PDF: {input_pdf_path}")
+    _log.info(f"Converting Markdown: {input_pdf_path}")
     conv_res = doc_converter.convert(input_pdf_path)
     return conv_res.document
 

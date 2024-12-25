@@ -67,17 +67,10 @@ def main():
             with element_image_filename.open("wb") as fp:
                 element.get_image(conv_res.document).save(fp, "PNG")
 
-    # Save markdown with embedded pictures
-    md_filename = output_dir / f"{doc_filename}-with-images.md"
-    conv_res.document.save_as_markdown(md_filename, image_mode=ImageRefMode.EMBEDDED)
-
     # Save markdown with externally referenced pictures
     md_filename = output_dir / f"{doc_filename}-with-image-refs.md"
     conv_res.document.save_as_markdown(md_filename, image_mode=ImageRefMode.REFERENCED)
 
-    # Save HTML with externally referenced pictures
-    html_filename = output_dir / f"{doc_filename}-with-image-refs.html"
-    conv_res.document.save_as_html(html_filename, image_mode=ImageRefMode.REFERENCED)
 
     end_time = time.time() - start_time
 

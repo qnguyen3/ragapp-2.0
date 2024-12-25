@@ -1,106 +1,114 @@
 import logging
 import time
 from pathlib import Path
+from typing import List
 
-from docling.document_converter import DocumentConverter, PdfFormatOption
+from docling_core.types.doc import ImageRefMode
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import PdfPipelineOptions
-from docling.chunking import HybridChunker
-from transformers import AutoTokenizer
+from docling.document_converter import DocumentConverter, PdfFormatOption
+from simple_chunker import SimpleChunker, Chunk
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
 _log = logging.getLogger(__name__)
 
-# Constants
-EMBED_MODEL_ID = "sentence-transformers/all-MiniLM-L6-v2"
-MAX_TOKENS = 256
 IMAGE_RESOLUTION_SCALE = 2.0
 
-def process_pdf(input_pdf_path):
-    """Process PDF using docling."""
-    # Configure PDF pipeline options
-    pipeline_options = PdfPipelineOptions()
-    pipeline_options.images_scale = IMAGE_RESOLUTION_SCALE
-    pipeline_options.generate_page_images = True
-    pipeline_options.generate_picture_images = True
-
-    # Initialize document converter
-    doc_converter = DocumentConverter(
-        format_options={
-            InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)
-        }
-    )
-
-    # Convert document
-    _log.info(f"Processing PDF: {input_pdf_path}")
-    conv_res = doc_converter.convert(input_pdf_path)
-    return conv_res.document
-
-def chunk_document(doc):
-    """Chunk the document using HybridChunker."""
-    # Initialize tokenizer and chunker
-    tokenizer = AutoTokenizer.from_pretrained(EMBED_MODEL_ID)
-    chunker = HybridChunker(
-        tokenizer=tokenizer,
-        max_tokens=MAX_TOKENS,
-    )
-    
-    _log.info("Chunking document...")
-    # Process chunks
-    chunk_iter = chunker.chunk(dl_doc=doc)
-    return list(chunk_iter), chunker, tokenizer
-
-def save_chunks_to_file(chunks, chunker, tokenizer, output_file, timing_info):
-    """Save chunks to a text file with timing information."""
-    _log.info(f"Saving chunks to: {output_file}")
-    with open(output_file, 'w') as f:
-        # Write timing information
-        f.write(f"Document processing time: {timing_info['processing_time']:.2f} seconds\n")
-        f.write(f"Chunking time: {timing_info['chunking_time']:.2f} seconds\n")
-        f.write(f"Total time: {timing_info['total_time']:.2f} seconds\n\n")
+class PdfToChunksWorkflow:
+    def __init__(self, max_chunk_size: int = 512):
+        """Initialize the workflow with configurable chunk size."""
+        self.chunker = SimpleChunker(max_chunk_size=max_chunk_size)
         
-        # Write chunks
-        for i, chunk in enumerate(chunks):
-            f.write(f"=== Chunk {i} ===\n")
-            txt_tokens = len(tokenizer.tokenize(chunk.text, max_length=None))
-            f.write(f"Text ({txt_tokens} tokens):\n{chunk.text}\n")
+        # Setup PDF converter with image options
+        pipeline_options = PdfPipelineOptions()
+        pipeline_options.images_scale = IMAGE_RESOLUTION_SCALE
+        pipeline_options.generate_page_images = True
+        pipeline_options.generate_picture_images = True
+        
+        self.doc_converter = DocumentConverter(
+            format_options={
+                InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)
+            }
+        )
 
-            ser_txt = chunker.serialize(chunk=chunk)
-            ser_tokens = len(tokenizer.tokenize(ser_txt, max_length=None))
-            f.write(f"Serialized ({ser_tokens} tokens):\n{ser_txt}\n")
-            f.write("\n")
+    def process(self, pdf_path: str | Path, output_dir: str | Path = None) -> List[Chunk]:
+        """
+        Process a PDF file and return chunks of text.
+        
+        Args:
+            pdf_path: Path to the PDF file
+            output_dir: Directory to save markdown and images (defaults to 'scratch_{pdf_name}')
+            
+        Returns:
+            List of Chunk objects containing the chunked text
+        """
+        if isinstance(pdf_path, str):
+            pdf_path = Path(pdf_path)
+            
+        # Setup output directory
+        if output_dir is None:
+            output_dir = Path(f"scratch_{pdf_path.stem}")
+        elif isinstance(output_dir, str):
+            output_dir = Path(output_dir)
+            
+        output_dir.mkdir(parents=True, exist_ok=True)
+            
+        _log.info(f"Processing PDF file: {pdf_path}")
+        start_time = time.time()
+        
+        # Convert PDF
+        _log.info("Converting PDF...")
+        conv_result = self.doc_converter.convert(pdf_path)
+        doc_filename = conv_result.input.file.stem
+        
+        # Save page images
+        for page_no, page in conv_result.document.pages.items():
+            page_image_filename = output_dir / f"{doc_filename}-{page_no}.png"
+            with page_image_filename.open("wb") as fp:
+                page.image.pil_image.save(fp, format="PNG")
+                
+        # Save markdown with externally referenced pictures
+        md_filename = output_dir / f"{doc_filename}-with-image-refs.md"
+        _log.info(f"Saving markdown to: {md_filename}")
+        conv_result.document.save_as_markdown(md_filename, image_mode=ImageRefMode.REFERENCED)
+        
+        # Read markdown file
+        _log.info("Reading markdown file...")
+        with open(md_filename, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Chunk the content
+        _log.info("Chunking content...")
+        chunks = self.chunker.chunk_text(content)
+        
+        end_time = time.time() - start_time
+        _log.info(f"Created {len(chunks)} chunks in {end_time:.2f} seconds")
+        
+        return chunks
 
 def main():
-    # File paths
-    input_pdf_path = Path("backend/tesla_pdf.pdf")  # Using tesla_pdf.pdf as example
-    output_file = Path("chunks_output.txt")
-
-    # Start timing
-    total_start_time = time.time()
+    """Example usage"""
+    # Initialize workflow
+    workflow = PdfToChunksWorkflow(max_chunk_size=512)
     
-    # Step 1: Process PDF
-    processing_start_time = time.time()
-    doc = process_pdf(input_pdf_path)
-    processing_time = time.time() - processing_start_time
-
-    # Step 2: Chunk the document
-    chunking_start_time = time.time()
-    chunks, chunker, tokenizer = chunk_document(doc)
-    chunking_time = time.time() - chunking_start_time
-
-    # Calculate total time
-    total_time = time.time() - total_start_time
-
-    # Step 3: Save chunks to file
-    timing_info = {
-        'processing_time': processing_time,
-        'chunking_time': chunking_time,
-        'total_time': total_time
-    }
-    save_chunks_to_file(chunks, chunker, tokenizer, output_file, timing_info)
+    # Process a PDF file
+    pdf_path = "backend/tesla_pdf.pdf"  # Example path
+    chunks = workflow.process(pdf_path)
     
-    _log.info("Process completed successfully!")
+    # Save chunks to output file
+    output_file = Path("test_chunks_output.txt")
+    _log.info(f"Saving chunks to: {output_file}")
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        for i, chunk in enumerate(chunks):
+            f.write(f"\n=== Chunk {i} ===\n")
+            f.write(f"Start index: {chunk.start_index}\n")
+            f.write(f"End index: {chunk.end_index}\n")
+            f.write(f"Tokens: {chunk.tokens}\n")
+            f.write("Content:\n")
+            f.write(chunk.content)
+            f.write("\n")
 
 if __name__ == "__main__":
     main()
