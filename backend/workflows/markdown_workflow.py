@@ -6,7 +6,8 @@ from dataclasses import dataclass
 
 from docling.document_converter import DocumentConverter, MarkdownFormatOption
 from docling.datamodel.base_models import InputFormat
-from docling.chunking import HybridChunker, Chunk
+from docling.chunking import HybridChunker
+from backend.chunkers import Chunk
 from transformers import AutoTokenizer
 
 # Setup logging

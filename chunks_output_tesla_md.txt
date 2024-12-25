@@ -1,0 +1,1147 @@
+Document conversion time: 0.26 seconds
+Chunking time: 0.68 seconds
+Total time: 0.94 seconds
+
+=== Chunk 0 ===
+Text (1 tokens):
+1
+Serialized (1 tokens):
+1
+
+=== Chunk 1 ===
+Text (77 tokens):
+2
+Highlights, 1 = 03. Financial Summary, 1 = 04. Operational Summary, 1 = 06. Vehicle Capacity, 1 = 07. Core Technology, 1 = 08. Other Highlights, 1 = 09. Outlook, 1 = 10. Photos & Charts, 1 = 11. Key Metrics, 1 = 23. Financial Statements, 1 = 25. Additional Information, 1 = 31
+Serialized (82 tokens):
+Q3 2024 Update
+2
+Highlights, 1 = 03. Financial Summary, 1 = 04. Operational Summary, 1 = 06. Vehicle Capacity, 1 = 07. Core Technology, 1 = 08. Other Highlights, 1 = 09. Outlook, 1 = 10. Photos & Charts, 1 = 11. Key Metrics, 1 = 23. Financial Statements, 1 = 25. Additional Information, 1 = 31
+
+=== Chunk 2 ===
+Text (154 tokens):
+Profitability
+$2.7B GAAP operating income in Q3
+$2.2B GAAP net income in Q3
+$2.5B non-GAAP net income 1 in Q3
+Cash
+Operating cash flow of $6.3B in Q3
+Free cash flow 2 of $2.7B in Q3
+$2.9B increase in our cash and investments 3 in Q3 to $33.6B
+Operations
+Increased AI training compute by over 75% in Q3
+Cybertruck became the third best-selling EV in Q3 in the U.S. (behind only Model Y and Model 3)
+Over two billion miles driven cumulatively on FSD (Supervised) 4 as of Q3 with more than 50% on V12
+Serialized (164 tokens):
+H I G H L I G H T S
+Profitability
+$2.7B GAAP operating income in Q3
+$2.2B GAAP net income in Q3
+$2.5B non-GAAP net income 1 in Q3
+Cash
+Operating cash flow of $6.3B in Q3
+Free cash flow 2 of $2.7B in Q3
+$2.9B increase in our cash and investments 3 in Q3 to $33.6B
+Operations
+Increased AI training compute by over 75% in Q3
+Cybertruck became the third best-selling EV in Q3 in the U.S. (behind only Model Y and Model 3)
+Over two billion miles driven cumulatively on FSD (Supervised) 4 as of Q3 with more than 50% on V12
+
+=== Chunk 3 ===
+Text (245 tokens):
+We delivered strong results in Q3 with growth in vehicle deliveries both sequentially and year-on-year, resulting in record third-quarter volumes. We also recognized our secondhighest quarter of regulatory credit revenues as other OEMs are still behind on meeting emissions requirements.
+Our cost of goods sold (COGS) per vehicle 5 came down to its lowest level ever at ~$35,100. In order to continue accelerating the world's transition to sustainable energy, we need to make EVs affordable for everyone, including making total cost of ownership per mile competitive with all forms of transportation. Preparations remain underway for our offering of new vehicles - including more affordable models - which we will begin launching in the first half of 2025. At our "We, Robot" event on October 10, we detailed our long-term goal of offering autonomous transport with a cost per mile below rideshare, personal car ownership and even public transit.
+The Energy business achieved another strong quarter with a record gross margin. Additionally, the Megafactory in Lathrop produced 200 Megapacks in a week, and Powerwall deployments reached a record for the second quarter in a row as we continue to ramp Powerwall 3.
+Serialized (252 tokens):
+S U M M A R Y
+We delivered strong results in Q3 with growth in vehicle deliveries both sequentially and year-on-year, resulting in record third-quarter volumes. We also recognized our secondhighest quarter of regulatory credit revenues as other OEMs are still behind on meeting emissions requirements.
+Our cost of goods sold (COGS) per vehicle 5 came down to its lowest level ever at ~$35,100. In order to continue accelerating the world's transition to sustainable energy, we need to make EVs affordable for everyone, including making total cost of ownership per mile competitive with all forms of transportation. Preparations remain underway for our offering of new vehicles - including more affordable models - which we will begin launching in the first half of 2025. At our "We, Robot" event on October 10, we detailed our long-term goal of offering autonomous transport with a cost per mile below rideshare, personal car ownership and even public transit.
+The Energy business achieved another strong quarter with a record gross margin. Additionally, the Megafactory in Lathrop produced 200 Megapacks in a week, and Powerwall deployments reached a record for the second quarter in a row as we continue to ramp Powerwall 3.
+
+=== Chunk 4 ===
+Text (61 tokens):
+Despite sustained macroeconomic headwinds and others pulling back on EV investments, we remain focused on expanding our vehicle and energy product lineup, reducing costs and making critical investments in AI projects and production capacity. We believe these efforts will allow us to capitalize on the ongoing transition in the transportation and energy sectors.
+Serialized (68 tokens):
+S U M M A R Y
+Despite sustained macroeconomic headwinds and others pulling back on EV investments, we remain focused on expanding our vehicle and energy product lineup, reducing costs and making critical investments in AI projects and production capacity. We believe these efforts will allow us to capitalize on the ongoing transition in the transportation and energy sectors.
+
+=== Chunk 5 ===
+Text (5 tokens):
+(Unaudited)
+Serialized (21 tokens):
+F I N A N C I A L   S U M M A R Y
+(Unaudited)
+
+=== Chunk 6 ===
+Text (239 tokens):
+($ in millions, except percentages and per share data), 1 = Q3-2023. ($ in millions, except percentages and per share data), 2 = Q4-2023. ($ in millions, except percentages and per share data), 3 = Q1-2024. ($ in millions, except percentages and per share data), 4 = Q2-2024. ($ in millions, except percentages and per share data), 5 = Q3-2024. ($ in millions, except percentages and per share data), 6 = YoY. Total automotive revenues, 1 = 19,625. Total automotive revenues, 2 = 21,563. Total automotive revenues, 3 = 17,378. Total automotive revenues, 4 = 19,878. Total automotive revenues, 5 = 20,016. Total automotive revenues, 6 = 2%. Energy generation and storage revenue, 1 = 1,559. Energy generation and storage revenue, 2 = 1,438. Energy generation and storage revenue, 3 = 1,635. Energy generation and storage revenue, 4 =
+Serialized (255 tokens):
+F I N A N C I A L   S U M M A R Y
+($ in millions, except percentages and per share data), 1 = Q3-2023. ($ in millions, except percentages and per share data), 2 = Q4-2023. ($ in millions, except percentages and per share data), 3 = Q1-2024. ($ in millions, except percentages and per share data), 4 = Q2-2024. ($ in millions, except percentages and per share data), 5 = Q3-2024. ($ in millions, except percentages and per share data), 6 = YoY. Total automotive revenues, 1 = 19,625. Total automotive revenues, 2 = 21,563. Total automotive revenues, 3 = 17,378. Total automotive revenues, 4 = 19,878. Total automotive revenues, 5 = 20,016. Total automotive revenues, 6 = 2%. Energy generation and storage revenue, 1 = 1,559. Energy generation and storage revenue, 2 = 1,438. Energy generation and storage revenue, 3 = 1,635. Energy generation and storage revenue, 4 =
+
+=== Chunk 7 ===
+Text (239 tokens):
+3,014. Energy generation and storage revenue, 5 = 2,376. Energy generation and storage revenue, 6 = 52%. Services and other revenue, 1 = 2,166. Services and other revenue, 2 = 2,166. Services and other revenue, 3 = 2,288. Services and other revenue, 4 = 2,608. Services and other revenue, 5 = 2,790. Services and other revenue, 6 = 29%. Total revenues, 1 = 23,350. Total revenues, 2 = 25,167. Total revenues, 3 = 21,301. Total revenues, 4 = 25,500. Total revenues, 5 = 25,182. Total revenues, 6 = 8%. Total gross profit, 1 = 4,178. Total gross profit, 2 = 4,438. Total gross profit, 3 = 3,696. Total gross profit, 4 = 4,578. Total gross profit, 5 = 4,997. Total gross profit, 6 = 20%. Total GAAP gross margin, 1 = 17.9%. Total GAAP gross margin, 2 = 17.6%. Total
+Serialized (255 tokens):
+F I N A N C I A L   S U M M A R Y
+3,014. Energy generation and storage revenue, 5 = 2,376. Energy generation and storage revenue, 6 = 52%. Services and other revenue, 1 = 2,166. Services and other revenue, 2 = 2,166. Services and other revenue, 3 = 2,288. Services and other revenue, 4 = 2,608. Services and other revenue, 5 = 2,790. Services and other revenue, 6 = 29%. Total revenues, 1 = 23,350. Total revenues, 2 = 25,167. Total revenues, 3 = 21,301. Total revenues, 4 = 25,500. Total revenues, 5 = 25,182. Total revenues, 6 = 8%. Total gross profit, 1 = 4,178. Total gross profit, 2 = 4,438. Total gross profit, 3 = 3,696. Total gross profit, 4 = 4,578. Total gross profit, 5 = 4,997. Total gross profit, 6 = 20%. Total GAAP gross margin, 1 = 17.9%. Total GAAP gross margin, 2 = 17.6%. Total
+
+=== Chunk 8 ===
+Text (240 tokens):
+GAAP gross margin, 3 = 17.4%. Total GAAP gross margin, 4 = 18.0%. Total GAAP gross margin, 5 = 19.8%. Total GAAP gross margin, 6 = 195 bp. Operating expenses, 1 = 2,414. Operating expenses, 2 = 2,374. Operating expenses, 3 = 2,525. Operating expenses, 4 = 2,973. Operating expenses, 5 = 2,280. Operating expenses, 6 = -6%. Income from operations, 1 = 1,764. Income from operations, 2 = 2,064. Income from operations, 3 = 1,171. Income from operations, 4 = 1,605. Income from operations, 5 = 2,717. Income from operations, 6 = 54%. Operating margin, 1 = 7.6%. Operating margin, 2 = 8.2%. Operating margin, 3 = 5.5%. Operating margin, 4 = 6.3%. Operating margin, 5 = 10.8%. Operating margin, 6 = 323 bp. Adjusted EBITDA, 1 = 3,758. Adjusted
+Serialized (256 tokens):
+F I N A N C I A L   S U M M A R Y
+GAAP gross margin, 3 = 17.4%. Total GAAP gross margin, 4 = 18.0%. Total GAAP gross margin, 5 = 19.8%. Total GAAP gross margin, 6 = 195 bp. Operating expenses, 1 = 2,414. Operating expenses, 2 = 2,374. Operating expenses, 3 = 2,525. Operating expenses, 4 = 2,973. Operating expenses, 5 = 2,280. Operating expenses, 6 = -6%. Income from operations, 1 = 1,764. Income from operations, 2 = 2,064. Income from operations, 3 = 1,171. Income from operations, 4 = 1,605. Income from operations, 5 = 2,717. Income from operations, 6 = 54%. Operating margin, 1 = 7.6%. Operating margin, 2 = 8.2%. Operating margin, 3 = 5.5%. Operating margin, 4 = 6.3%. Operating margin, 5 = 10.8%. Operating margin, 6 = 323 bp. Adjusted EBITDA, 1 = 3,758. Adjusted
+
+=== Chunk 9 ===
+Text (237 tokens):
+EBITDA, 2 = 3,953. Adjusted EBITDA, 3 = 3,384. Adjusted EBITDA, 4 = 3,674. Adjusted EBITDA, 5 = 4,665. Adjusted EBITDA, 6 = 24%. Adjusted EBITDA margin, 1 = 16.1%. Adjusted EBITDA margin, 2 = 15.7%. Adjusted EBITDA margin, 3 = 15.9%. Adjusted EBITDA margin, 4 = 14.4%. Adjusted EBITDA margin, 5 = 18.5%. Adjusted EBITDA margin, 6 = 243 bp. Net income attributable to common stockholders (GAAP), 1 = 1,853. Net income attributable to common stockholders (GAAP), 2 = 7,928. Net income attributable to common stockholders (GAAP), 3 = 1,129. Net income attributable to common stockholders (GAAP), 4 = 1,478. Net income attributable to common stockholders (GAAP), 5 =
+Serialized (253 tokens):
+F I N A N C I A L   S U M M A R Y
+EBITDA, 2 = 3,953. Adjusted EBITDA, 3 = 3,384. Adjusted EBITDA, 4 = 3,674. Adjusted EBITDA, 5 = 4,665. Adjusted EBITDA, 6 = 24%. Adjusted EBITDA margin, 1 = 16.1%. Adjusted EBITDA margin, 2 = 15.7%. Adjusted EBITDA margin, 3 = 15.9%. Adjusted EBITDA margin, 4 = 14.4%. Adjusted EBITDA margin, 5 = 18.5%. Adjusted EBITDA margin, 6 = 243 bp. Net income attributable to common stockholders (GAAP), 1 = 1,853. Net income attributable to common stockholders (GAAP), 2 = 7,928. Net income attributable to common stockholders (GAAP), 3 = 1,129. Net income attributable to common stockholders (GAAP), 4 = 1,478. Net income attributable to common stockholders (GAAP), 5 =
+
+=== Chunk 10 ===
+Text (240 tokens):
+2,167. Net income attributable to common stockholders (GAAP), 6 = 17%. Net income attributable to common stockholders (non-GAAP), 1 = 2,318. Net income attributable to common stockholders (non-GAAP), 2 = 2,485. Net income attributable to common stockholders (non-GAAP), 3 = 1,536. Net income attributable to common stockholders (non-GAAP), 4 = 1,812. Net income attributable to common stockholders (non-GAAP), 5 = 2,505. Net income attributable to common stockholders (non-GAAP), 6 = 8%. EPS attributable to common stockholders, diluted (GAAP), 1 = 0.53. EPS attributable to common stockholders, diluted (GAAP), 2 = 2.27. EPS attributable to common stockholders, diluted (GAAP), 3 = 0.34. EPS attributable to common
+Serialized (256 tokens):
+F I N A N C I A L   S U M M A R Y
+2,167. Net income attributable to common stockholders (GAAP), 6 = 17%. Net income attributable to common stockholders (non-GAAP), 1 = 2,318. Net income attributable to common stockholders (non-GAAP), 2 = 2,485. Net income attributable to common stockholders (non-GAAP), 3 = 1,536. Net income attributable to common stockholders (non-GAAP), 4 = 1,812. Net income attributable to common stockholders (non-GAAP), 5 = 2,505. Net income attributable to common stockholders (non-GAAP), 6 = 8%. EPS attributable to common stockholders, diluted (GAAP), 1 = 0.53. EPS attributable to common stockholders, diluted (GAAP), 2 = 2.27. EPS attributable to common stockholders, diluted (GAAP), 3 = 0.34. EPS attributable to common
+
+=== Chunk 11 ===
+Text (240 tokens):
+stockholders, diluted (GAAP), 4 = 0.42. EPS attributable to common stockholders, diluted (GAAP), 5 = 0.62. EPS attributable to common stockholders, diluted (GAAP), 6 = 17%. EPS attributable to common stockholders, diluted (non-GAAP), 1 = 0.66. EPS attributable to common stockholders, diluted (non-GAAP), 2 = 0.71. EPS attributable to common stockholders, diluted (non-GAAP), 3 = 0.45. EPS attributable to common stockholders, diluted (non-GAAP), 4 = 0.52. EPS attributable to common stockholders, diluted (non-GAAP), 5 = 0.72. EPS attributable to common stockholders, diluted (non-GAAP), 6 = 9%. Net cash provided by operating activities, 1 = 3,308. Net cash provided by operating activities, 2 = 4,370. Net cash provided by
+Serialized (256 tokens):
+F I N A N C I A L   S U M M A R Y
+stockholders, diluted (GAAP), 4 = 0.42. EPS attributable to common stockholders, diluted (GAAP), 5 = 0.62. EPS attributable to common stockholders, diluted (GAAP), 6 = 17%. EPS attributable to common stockholders, diluted (non-GAAP), 1 = 0.66. EPS attributable to common stockholders, diluted (non-GAAP), 2 = 0.71. EPS attributable to common stockholders, diluted (non-GAAP), 3 = 0.45. EPS attributable to common stockholders, diluted (non-GAAP), 4 = 0.52. EPS attributable to common stockholders, diluted (non-GAAP), 5 = 0.72. EPS attributable to common stockholders, diluted (non-GAAP), 6 = 9%. Net cash provided by operating activities, 1 = 3,308. Net cash provided by operating activities, 2 = 4,370. Net cash provided by
+
+=== Chunk 12 ===
+Text (240 tokens):
+operating activities, 3 = 242. Net cash provided by operating activities, 4 = 3,612. Net cash provided by operating activities, 5 = 6,255. Net cash provided by operating activities, 6 = 89%. Capital expenditures, 1 = (2,460). Capital expenditures, 2 = (2,306). Capital expenditures, 3 = (2,773). Capital expenditures, 4 = (2,270). Capital expenditures, 5 = (3,513). Capital expenditures, 6 = 43%. Free cash flow, 1 = 848. Free cash flow, 2 = 2,064. Free cash flow, 3 = (2,531). Free cash flow, 4 = 1,342. Free cash flow, 5 = 2,742. Free cash flow, 6 = 223%. Cash, cash equivalents and investments, 1 = 26,077. Cash, cash equivalents and investments, 2 = 29,094. Cash, cash equivalents and investments, 3 = 26,863. Cash, cash equivalents and investments, 4 = 30,720. Cash, cash equivalents and
+Serialized (256 tokens):
+F I N A N C I A L   S U M M A R Y
+operating activities, 3 = 242. Net cash provided by operating activities, 4 = 3,612. Net cash provided by operating activities, 5 = 6,255. Net cash provided by operating activities, 6 = 89%. Capital expenditures, 1 = (2,460). Capital expenditures, 2 = (2,306). Capital expenditures, 3 = (2,773). Capital expenditures, 4 = (2,270). Capital expenditures, 5 = (3,513). Capital expenditures, 6 = 43%. Free cash flow, 1 = 848. Free cash flow, 2 = 2,064. Free cash flow, 3 = (2,531). Free cash flow, 4 = 1,342. Free cash flow, 5 = 2,742. Free cash flow, 6 = 223%. Cash, cash equivalents and investments, 1 = 26,077. Cash, cash equivalents and investments, 2 = 29,094. Cash, cash equivalents and investments, 3 = 26,863. Cash, cash equivalents and investments, 4 = 30,720. Cash, cash equivalents and
+
+=== Chunk 13 ===
+Text (21 tokens):
+investments, 5 = 33,648. Cash, cash equivalents and investments, 6 = 29%
+Serialized (37 tokens):
+F I N A N C I A L   S U M M A R Y
+investments, 5 = 33,648. Cash, cash equivalents and investments, 6 = 29%
+
+=== Chunk 14 ===
+Text (232 tokens):
+Total revenue increased 8% YoY in Q3 to $25.2B. YoY, revenue was impacted by the following items:
+Profitability
+Cash
+[<Paragraph children=[<RawText children='growth in vehicle deliveries'>]>]
+[<Paragraph children=[<RawText children='growth in Energy Generation and Storage and Services and Other'>]>]
+[<Paragraph children=[<RawText children=('higher FSD revenue recognition YoY for releases related to Cybertruck and '
+ 'certain features such as Actually Smart Summon')>]>]
+[<Paragraph children=[<RawText children='higher regulatory credit revenue'>]>]
+[<Paragraph children=[<RawText children=('reduced S3XY vehicle average selling price (ASP) (excl. FX impact), due to '
+ 'mix, pricing and attractive financing options')>]>]
+Our operating income increased YoY to $2.7B in Q3, resulting in a 10.8% operating margin. YoY, operating income was primarily impacted by the following items:
+Serialized (233 tokens):
+Revenue
+Total revenue increased 8% YoY in Q3 to $25.2B. YoY, revenue was impacted by the following items:
+Profitability
+Cash
+[<Paragraph children=[<RawText children='growth in vehicle deliveries'>]>]
+[<Paragraph children=[<RawText children='growth in Energy Generation and Storage and Services and Other'>]>]
+[<Paragraph children=[<RawText children=('higher FSD revenue recognition YoY for releases related to Cybertruck and '
+ 'certain features such as Actually Smart Summon')>]>]
+[<Paragraph children=[<RawText children='higher regulatory credit revenue'>]>]
+[<Paragraph children=[<RawText children=('reduced S3XY vehicle average selling price (ASP) (excl. FX impact), due to '
+ 'mix, pricing and attractive financing options')>]>]
+Our operating income increased YoY to $2.7B in Q3, resulting in a 10.8% operating margin. YoY, operating income was primarily impacted by the following items:
+
+=== Chunk 15 ===
+Text (236 tokens):
+[<Paragraph children=[<RawText children=('lower cost per vehicle, including lower raw material costs, freight and '
+ 'duties and other one-time charges')>]>]
+[<Paragraph children=[<RawText children='growth in Energy Generation and Storage and Services and Other gross profit'>]>]
+[<Paragraph children=[<RawText children=('higher FSD revenue recognition YoY for releases related to Cybertruck and '
+ 'certain features such as Actually Smart Summon + growth in vehicle '
+ 'deliveries')>]>]
+[<Paragraph children=[<RawText children='higher regulatory credit revenue'>]>]
+[<Paragraph children=[<RawText children='decrease in operating expenses including cost-reduction efforts'>]>]
+[<Paragraph children=[<RawText children='reduced S3XY vehicle ASP'>]>]
+Quarter-end cash, cash equivalents and investments in Q3 was $33.6B. The sequential increase of $2.9B was primarily the result of positive free cash flow of $2.7B.
+Serialized (237 tokens):
+Revenue
+[<Paragraph children=[<RawText children=('lower cost per vehicle, including lower raw material costs, freight and '
+ 'duties and other one-time charges')>]>]
+[<Paragraph children=[<RawText children='growth in Energy Generation and Storage and Services and Other gross profit'>]>]
+[<Paragraph children=[<RawText children=('higher FSD revenue recognition YoY for releases related to Cybertruck and '
+ 'certain features such as Actually Smart Summon + growth in vehicle '
+ 'deliveries')>]>]
+[<Paragraph children=[<RawText children='higher regulatory credit revenue'>]>]
+[<Paragraph children=[<RawText children='decrease in operating expenses including cost-reduction efforts'>]>]
+[<Paragraph children=[<RawText children='reduced S3XY vehicle ASP'>]>]
+Quarter-end cash, cash equivalents and investments in Q3 was $33.6B. The sequential increase of $2.9B was primarily the result of positive free cash flow of $2.7B.
+
+=== Chunk 16 ===
+Text (5 tokens):
+(Unaudited)
+Serialized (23 tokens):
+O P E R A T I O N A L   S U M M A R Y
+(Unaudited)
+
+=== Chunk 17 ===
+Text (238 tokens):
+, 1 = Q3-2023. , 2 = Q4-2023. , 3 = Q1-2024. , 4 = Q2-2024. , 5 = Q3-2024. , 6 = YoY. Model 3/Y production, 1 = 416,800. Model 3/Y production, 2 = 476,777. Model 3/Y production, 3 = 412,376. Model 3/Y production, 4 = 386,576. Model 3/Y production, 5 = 443,668. Model 3/Y production, 6 = 6%. Other models production, 1 = 13,688. Other models production, 2 = 18,212. Other models production, 3 = 20,995. Other models production, 4 = 24,255. Other models production, 5 = 26,128. Other models production, 6 = 91%. Total production, 1 = 430,488. Total production, 2 = 494,989. Total production, 3 = 433,371. Total production, 4 = 410,831. Total production, 5 =
+Serialized (256 tokens):
+O P E R A T I O N A L   S U M M A R Y
+, 1 = Q3-2023. , 2 = Q4-2023. , 3 = Q1-2024. , 4 = Q2-2024. , 5 = Q3-2024. , 6 = YoY. Model 3/Y production, 1 = 416,800. Model 3/Y production, 2 = 476,777. Model 3/Y production, 3 = 412,376. Model 3/Y production, 4 = 386,576. Model 3/Y production, 5 = 443,668. Model 3/Y production, 6 = 6%. Other models production, 1 = 13,688. Other models production, 2 = 18,212. Other models production, 3 = 20,995. Other models production, 4 = 24,255. Other models production, 5 = 26,128. Other models production, 6 = 91%. Total production, 1 = 430,488. Total production, 2 = 494,989. Total production, 3 = 433,371. Total production, 4 = 410,831. Total production, 5 =
+
+=== Chunk 18 ===
+Text (238 tokens):
+469,796. Total production, 6 = 9%. Model 3/Y deliveries, 1 = 419,074. Model 3/Y deliveries, 2 = 461,538. Model 3/Y deliveries, 3 = 369,783. Model 3/Y deliveries, 4 = 422,405. Model 3/Y deliveries, 5 = 439,975. Model 3/Y deliveries, 6 = 5%. Other models deliveries, 1 = 15,985. Other models deliveries, 2 = 22,969. Other models deliveries, 3 = 17,027. Other models deliveries, 4 = 21,551. Other models deliveries, 5 = 22,915. Other models deliveries, 6 = 43%. Total deliveries, 1 = 435,059. Total deliveries, 2 = 484,507. Total deliveries, 3 = 386,810. Total deliveries, 4 = 443,956. Total deliveries, 5 = 462,890. Total deliveries, 6 = 6%. of which subject to operating lease accounting, 1 = 17,423. of which subject to
+Serialized (256 tokens):
+O P E R A T I O N A L   S U M M A R Y
+469,796. Total production, 6 = 9%. Model 3/Y deliveries, 1 = 419,074. Model 3/Y deliveries, 2 = 461,538. Model 3/Y deliveries, 3 = 369,783. Model 3/Y deliveries, 4 = 422,405. Model 3/Y deliveries, 5 = 439,975. Model 3/Y deliveries, 6 = 5%. Other models deliveries, 1 = 15,985. Other models deliveries, 2 = 22,969. Other models deliveries, 3 = 17,027. Other models deliveries, 4 = 21,551. Other models deliveries, 5 = 22,915. Other models deliveries, 6 = 43%. Total deliveries, 1 = 435,059. Total deliveries, 2 = 484,507. Total deliveries, 3 = 386,810. Total deliveries, 4 = 443,956. Total deliveries, 5 = 462,890. Total deliveries, 6 = 6%. of which subject to operating lease accounting, 1 = 17,423. of which subject to
+
+=== Chunk 19 ===
+Text (238 tokens):
+operating lease accounting, 2 = 10,563. of which subject to operating lease accounting, 3 = 8,365. of which subject to operating lease accounting, 4 = 10,227. of which subject to operating lease accounting, 5 = 14,449. of which subject to operating lease accounting, 6 = -17%. Total end of quarter operating lease vehicle count, 1 = 176,231. Total end of quarter operating lease vehicle count, 2 = 176,564. Total end of quarter operating lease vehicle count, 3 = 173,131. Total end of quarter operating lease vehicle count, 4 = 171,353. Total end of quarter operating lease vehicle count, 5 = 168,867. Total end of quarter operating lease vehicle count, 6 = -4%. Global vehicle inventory (days of supply) (1), 1 = 16. Global vehicle inventory (days of supply) (1), 2 = 15. Global vehicle inventory (days of supply) (1), 3 = 28. Global vehicle inventory (days of supply) (1), 4 = 18. Global vehicle inventory (days of supply) (1), 5
+Serialized (256 tokens):
+O P E R A T I O N A L   S U M M A R Y
+operating lease accounting, 2 = 10,563. of which subject to operating lease accounting, 3 = 8,365. of which subject to operating lease accounting, 4 = 10,227. of which subject to operating lease accounting, 5 = 14,449. of which subject to operating lease accounting, 6 = -17%. Total end of quarter operating lease vehicle count, 1 = 176,231. Total end of quarter operating lease vehicle count, 2 = 176,564. Total end of quarter operating lease vehicle count, 3 = 173,131. Total end of quarter operating lease vehicle count, 4 = 171,353. Total end of quarter operating lease vehicle count, 5 = 168,867. Total end of quarter operating lease vehicle count, 6 = -4%. Global vehicle inventory (days of supply) (1), 1 = 16. Global vehicle inventory (days of supply) (1), 2 = 15. Global vehicle inventory (days of supply) (1), 3 = 28. Global vehicle inventory (days of supply) (1), 4 = 18. Global vehicle inventory (days of supply) (1), 5
+
+=== Chunk 20 ===
+Text (238 tokens):
+= 19. Global vehicle inventory (days of supply) (1), 6 = 19%. Storage deployed (GWh), 1 = 4.0. Storage deployed (GWh), 2 = 3.2. Storage deployed (GWh), 3 = 4.1. Storage deployed (GWh), 4 = 9.4. Storage deployed (GWh), 5 = 6.9. Storage deployed (GWh), 6 = 75%. Tesla locations, 1 = 1,129. Tesla locations, 2 = 1,208. Tesla locations, 3 = 1,258. Tesla locations, 4 = 1,286. Tesla locations, 5 = 1,306. Tesla locations, 6 = 16%. Mobile service fleet, 1 = 1,846. Mobile service fleet, 2 = 1,909. Mobile service fleet, 3 = 1,897. Mobile service fleet, 4 = 1,896. Mobile service fleet, 5 = 1,933. Mobile service fleet, 6 = 5%. Supercharger stations, 1 = 5,595. Supercharger stations, 2
+Serialized (256 tokens):
+O P E R A T I O N A L   S U M M A R Y
+= 19. Global vehicle inventory (days of supply) (1), 6 = 19%. Storage deployed (GWh), 1 = 4.0. Storage deployed (GWh), 2 = 3.2. Storage deployed (GWh), 3 = 4.1. Storage deployed (GWh), 4 = 9.4. Storage deployed (GWh), 5 = 6.9. Storage deployed (GWh), 6 = 75%. Tesla locations, 1 = 1,129. Tesla locations, 2 = 1,208. Tesla locations, 3 = 1,258. Tesla locations, 4 = 1,286. Tesla locations, 5 = 1,306. Tesla locations, 6 = 16%. Mobile service fleet, 1 = 1,846. Mobile service fleet, 2 = 1,909. Mobile service fleet, 3 = 1,897. Mobile service fleet, 4 = 1,896. Mobile service fleet, 5 = 1,933. Mobile service fleet, 6 = 5%. Supercharger stations, 1 = 5,595. Supercharger stations, 2
+
+=== Chunk 21 ===
+Text (124 tokens):
+= 5,952. Supercharger stations, 3 = 6,249. Supercharger stations, 4 = 6,473. Supercharger stations, 5 = 6,706. Supercharger stations, 6 = 20%. Supercharger connectors, 1 = 51,105. Supercharger connectors, 2 = 54,892. Supercharger connectors, 3 = 57,579. Supercharger connectors, 4 = 59,596. Supercharger connectors, 5 = 62,421. Supercharger connectors, 6 = 22%
+Serialized (142 tokens):
+O P E R A T I O N A L   S U M M A R Y
+= 5,952. Supercharger stations, 3 = 6,249. Supercharger stations, 4 = 6,473. Supercharger stations, 5 = 6,706. Supercharger stations, 6 = 20%. Supercharger connectors, 1 = 51,105. Supercharger connectors, 2 = 54,892. Supercharger connectors, 3 = 57,579. Supercharger connectors, 4 = 59,596. Supercharger connectors, 5 = 62,421. Supercharger connectors, 6 = 22%
+
+=== Chunk 22 ===
+Text (57 tokens):
+Production and delivery volumes both returned to year-on-year growth in Q3. We also produced our 7-millionth vehicle October 22 nd . We continued to add to our vehicle lineup by expanding the options for new vehicle trims and paint for Model 3 and Model Y.
+Serialized (72 tokens):
+V E H I C L E C A P A C I T Y
+Production and delivery volumes both returned to year-on-year growth in Q3. We also produced our 7-millionth vehicle October 22 nd . We continued to add to our vehicle lineup by expanding the options for new vehicle trims and paint for Model 3 and Model Y.
+
+=== Chunk 23 ===
+Text (67 tokens):
+Refreshed Model 3 ramp continued successfully in Q3 with higher total production and lower cost of goods sold quarter-over-quarter. Cybertruck production increased sequentially and achieved a positive gross margin for the first time. Preparation of the Semi factory continues and remains on track with builds scheduled to start by the end of 2025.
+Serialized (74 tokens):
+US: California, Nevada and Texas
+Refreshed Model 3 ramp continued successfully in Q3 with higher total production and lower cost of goods sold quarter-over-quarter. Cybertruck production increased sequentially and achieved a positive gross margin for the first time. Preparation of the Semi factory continues and remains on track with builds scheduled to start by the end of 2025.
+
+=== Chunk 24 ===
+Text (50 tokens):
+The Shanghai factory recently achieved two notable milestones: producing its 3-millionth vehicle in October and exporting its 1-millionth vehicle in September. Costs of goods sold per vehicle at the Shanghai factory improved sequentially to its lowest level ever.
+Serialized (53 tokens):
+China: Shanghai
+The Shanghai factory recently achieved two notable milestones: producing its 3-millionth vehicle in October and exporting its 1-millionth vehicle in September. Costs of goods sold per vehicle at the Shanghai factory improved sequentially to its lowest level ever.
+
+=== Chunk 25 ===
+Text (97 tokens):
+Costs of goods sold per vehicle improved sequentially at Gigafactory Berlin-Brandenburg. As of Q3, Model Y is the most sold vehicle of any type in 2024 in Sweden, Netherlands, Denmark and Switzerland, and was the best-selling vehicle in Europe in the month of September. Additionally, in Q3, Model Y became the best-selling EV (new vehicle sales) of all time in Norway, which now has over 60,000 units on the road.
+Serialized (102 tokens):
+Europe: Berlin-Brandenburg
+Costs of goods sold per vehicle improved sequentially at Gigafactory Berlin-Brandenburg. As of Q3, Model Y is the most sold vehicle of any type in 2024 in Sweden, Netherlands, Denmark and Switzerland, and was the best-selling vehicle in Europe in the month of September. Additionally, in Q3, Model Y became the best-selling EV (new vehicle sales) of all time in Norway, which now has over 60,000 units on the road.
+
+=== Chunk 26 ===
+Text (216 tokens):
+Region, 1 = Model. Region, 2 = Capacity. Region, 3 = Status. California, 1 = Model S / Model X. California, 2 = 100,000. California, 3 = Production. , 1 = Model 3 / Model Y. , 2 = >550,000. , 3 = Production. Shanghai, 1 = Model 3 / Model Y. Shanghai, 2 = >950,000. Shanghai, 3 = Production. Berlin, 1 = Model Y. Berlin, 2 = >375,000. Berlin, 3 = Production. Texas, 1 = Model Y. Texas, 2 = >250,000. Texas, 3 = Production. , 1 = Cybertruck. , 2 = >125,000. , 3 = Production. Nevada, 1 = Tesla Semi. Nevada, 2 = -. Nevada, 3 = Pilot production. Various, 1 = Next Gen Platform. Various, 2 = -. Various, 3 = In development. TBD, 1 = Roadster. TBD, 2 = -. TBD, 3 = In development
+Serialized (221 tokens):
+Current Installed Annual Vehicle Capacity
+Region, 1 = Model. Region, 2 = Capacity. Region, 3 = Status. California, 1 = Model S / Model X. California, 2 = 100,000. California, 3 = Production. , 1 = Model 3 / Model Y. , 2 = >550,000. , 3 = Production. Shanghai, 1 = Model 3 / Model Y. Shanghai, 2 = >950,000. Shanghai, 3 = Production. Berlin, 1 = Model Y. Berlin, 2 = >375,000. Berlin, 3 = Production. Texas, 1 = Model Y. Texas, 2 = >250,000. Texas, 3 = Production. , 1 = Cybertruck. , 2 = >125,000. , 3 = Production. Nevada, 1 = Tesla Semi. Nevada, 2 = -. Nevada, 3 = Pilot production. Various, 1 = Next Gen Platform. Various, 2 = -. Various, 3 = In development. TBD, 1 = Roadster. TBD, 2 = -. TBD, 3 = In development
+
+=== Chunk 27 ===
+Text (83 tokens):
+Installed capacity ≠ current production rate and there may be limitations discovered as production rates approach capacity. Production rates depend on a variety of factors, including equipment uptime, component supply, downtime related to factory upgrades, regulatory considerations and other factors.
+Image
+Source: Tesla estimates based on latest available data from ACEA; Autonews.com; CAAM - light-duty vehicles only; TTM = Trailing twelve months
+Serialized (88 tokens):
+Current Installed Annual Vehicle Capacity
+Installed capacity ≠ current production rate and there may be limitations discovered as production rates approach capacity. Production rates depend on a variety of factors, including equipment uptime, component supply, downtime related to factory upgrades, regulatory considerations and other factors.
+Image
+Source: Tesla estimates based on latest available data from ACEA; Autonews.com; CAAM - light-duty vehicles only; TTM = Trailing twelve months
+
+=== Chunk 28 ===
+Text (139 tokens):
+In Q3, we released the 12.5 series of FSD (Supervised) 1 with improved safety and comfort thanks to increased data and training compute, a 5x increase in parameter count, and other architectural choices that we plan to continue scaling in Q4. We released Actually Smart Summon, which enables your vehicle to autonomously drive to you in parking lots, and FSD (Supervised) to Cybertruck customers, including end-to-end neural nets for highway driving for the first time. We deployed and are training ahead of schedule on a 29k H100 cluster at Gigafactory Texas - where we expect to have 50k H100 capacity by the end of October.
+Serialized (144 tokens):
+Artificial Intelligence Software and Hardware
+In Q3, we released the 12.5 series of FSD (Supervised) 1 with improved safety and comfort thanks to increased data and training compute, a 5x increase in parameter count, and other architectural choices that we plan to continue scaling in Q4. We released Actually Smart Summon, which enables your vehicle to autonomously drive to you in parking lots, and FSD (Supervised) to Cybertruck customers, including end-to-end neural nets for highway driving for the first time. We deployed and are training ahead of schedule on a 29k H100 cluster at Gigafactory Texas - where we expect to have 50k H100 capacity by the end of October.
+
+=== Chunk 29 ===
+Text (79 tokens):
+Our Summer Release included YouTube and Amazon Music as native apps. Parents can now enable Parental Controls via PIN to apply maximum speed limit, reduce acceleration to Chill, force-enable safety settings and enable curfew notifications. Other new features include Hands-Free Frunk, revamped climate controls for Model 3 and Model Y, weather forecast, air quality and improvements to in-vehicle navigation.
+Serialized (83 tokens):
+Vehicle and Other Software
+Our Summer Release included YouTube and Amazon Music as native apps. Parents can now enable Parental Controls via PIN to apply maximum speed limit, reduce acceleration to Chill, force-enable safety settings and enable curfew notifications. Other new features include Hands-Free Frunk, revamped climate controls for Model 3 and Model Y, weather forecast, air quality and improvements to in-vehicle navigation.
+
+=== Chunk 30 ===
+Text (131 tokens):
+In October, we unveiled our Cybercab and Robovan vehicles, both designed from the ground up for autonomy - without a steering wheel or pedals. Cybercab will be built on our next-generation platform which includes a new powertrain with an estimated 5.5 mi/kWh. This will be our most efficient powertrain yet. In Q3, we produced our 100-millionth 4680 cell and continued to progress our dry-cathode manufacturing lines.
+Cumulative miles driven with FSD (Supervised) (billions)
+Image
+90,000
+Tesla AI training capacity ramp through end of year (H100 equivalent GPUs)
+Image
+Serialized (137 tokens):
+Battery, Powertrain and Manufacturing
+In October, we unveiled our Cybercab and Robovan vehicles, both designed from the ground up for autonomy - without a steering wheel or pedals. Cybercab will be built on our next-generation platform which includes a new powertrain with an estimated 5.5 mi/kWh. This will be our most efficient powertrain yet. In Q3, we produced our 100-millionth 4680 cell and continued to progress our dry-cathode manufacturing lines.
+Cumulative miles driven with FSD (Supervised) (billions)
+Image
+90,000
+Tesla AI training capacity ramp through end of year (H100 equivalent GPUs)
+Image
+
+=== Chunk 31 ===
+Text (42 tokens):
+Our Energy and Services and Other businesses are becoming increasingly profitable parts of Tesla. As energy storage products continue to ramp and our vehicle fleet continues to grow, we are expecting continued profit growth from these businesses over time.
+Serialized (57 tokens):
+O T H E R   H I G H L I G H T S
+Our Energy and Services and Other businesses are becoming increasingly profitable parts of Tesla. As energy storage products continue to ramp and our vehicle fleet continues to grow, we are expecting continued profit growth from these businesses over time.
+
+=== Chunk 32 ===
+Text (146 tokens):
+The Energy business achieved a record gross margin of 30.5% in Q3, a sequential increase of 596 bps, despite lower Megapack volumes. Powerwall achieved record deployments in Q3 for the second quarter in a row. Ramp of Powerwall 3 and the Lathrop Megafactory continued successfully - with Lathrop demonstrating 200 Megapack production (40 GWh annual run rate) in a single week. As of Q3, over 100,000 Powerwalls were enrolled in Virtual Power Plant programs, delivering additional financial value to owners while providing muchneeded support to the grid during periods of stress. The Shanghai Megafactory remains on track to begin shipping Megapacks in Q1 2025.
+Serialized (150 tokens):
+Energy Generation and Storage
+The Energy business achieved a record gross margin of 30.5% in Q3, a sequential increase of 596 bps, despite lower Megapack volumes. Powerwall achieved record deployments in Q3 for the second quarter in a row. Ramp of Powerwall 3 and the Lathrop Megafactory continued successfully - with Lathrop demonstrating 200 Megapack production (40 GWh annual run rate) in a single week. As of Q3, over 100,000 Powerwalls were enrolled in Virtual Power Plant programs, delivering additional financial value to owners while providing muchneeded support to the grid during periods of stress. The Shanghai Megafactory remains on track to begin shipping Megapacks in Q1 2025.
+
+=== Chunk 33 ===
+Text (113 tokens):
+The Services and Other business achieved a record gross profit in Q3, growing over 90% year-on-year. Sequential growth in gross profit was driven mostly by higher gross profit generation from supercharging, service center margin improvement and higher gross profit generation from Parts Sales and Merchandise. Our Supercharger network continued to expand in Q3 with over 2,800 new stalls in the quarter, a 22% growth of the network YoY.
+Energy and Services and Other gross profit ($M)
+Image
+10
+Energy Storage deployments (GWh)
+Image
+Serialized (116 tokens):
+Services and Other
+The Services and Other business achieved a record gross profit in Q3, growing over 90% year-on-year. Sequential growth in gross profit was driven mostly by higher gross profit generation from supercharging, service center margin improvement and higher gross profit generation from Parts Sales and Merchandise. Our Supercharger network continued to expand in Q3 with over 2,800 new stalls in the quarter, a 22% growth of the network YoY.
+Energy and Services and Other gross profit ($M)
+Image
+10
+Energy Storage deployments (GWh)
+Image
+
+=== Chunk 34 ===
+Text (243 tokens):
+Our company is currently between two major growth waves: the first one began with the global expansion of the Model 3/Y platform and we believe the next one will be initiated by advances in autonomy and introduction of new products, including those built on our next generation vehicle platform. Despite ongoing macroeconomic conditions, we expect to achieve slight growth in vehicle deliveries in 2024. Energy storage deployments are expected to more than double year-over-year in 2024.
+Cash We have sufficient liquidity to fund our product roadmap, long-term capacity expansion plans and other expenses. Furthermore, we will manage the business such that we maintain a strong balance sheet during this uncertain period.
+Profit While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our
+hardware-related profits to be accompanied by an acceleration of AI, software and fleet-based profits.
+Product
+Plans for new vehicles, including more affordable models, remain on track for start of production in the first half of 2025. These vehicles will utilize aspects of the next generation platform as well as aspects of our current platforms and will be able to be produced on the same manufacturing lines as our current vehicle line-up.
+Serialized (244 tokens):
+Volume
+Our company is currently between two major growth waves: the first one began with the global expansion of the Model 3/Y platform and we believe the next one will be initiated by advances in autonomy and introduction of new products, including those built on our next generation vehicle platform. Despite ongoing macroeconomic conditions, we expect to achieve slight growth in vehicle deliveries in 2024. Energy storage deployments are expected to more than double year-over-year in 2024.
+Cash We have sufficient liquidity to fund our product roadmap, long-term capacity expansion plans and other expenses. Furthermore, we will manage the business such that we maintain a strong balance sheet during this uncertain period.
+Profit While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our
+hardware-related profits to be accompanied by an acceleration of AI, software and fleet-based profits.
+Product
+Plans for new vehicles, including more affordable models, remain on track for start of production in the first half of 2025. These vehicles will utilize aspects of the next generation platform as well as aspects of our current platforms and will be able to be produced on the same manufacturing lines as our current vehicle line-up.
+
+=== Chunk 35 ===
+Text (91 tokens):
+This approach will result in achieving less cost reduction than previously expected but enables us to prudently grow our vehicle volumes in a more capex efficient manner during uncertain times. This should help us fully utilize our current expected maximum capacity of close to three million vehicles, enabling more than 50% growth over 2023 production before investing in new manufacturing lines.
+Our purpose-built Robotaxi product will continue to pursue a revolutionary 'unboxed' manufacturing strategy.
+Serialized (92 tokens):
+Volume
+This approach will result in achieving less cost reduction than previously expected but enables us to prudently grow our vehicle volumes in a more capex efficient manner during uncertain times. This should help us fully utilize our current expected maximum capacity of close to three million vehicles, enabling more than 50% growth over 2023 production before investing in new manufacturing lines.
+Our purpose-built Robotaxi product will continue to pursue a revolutionary 'unboxed' manufacturing strategy.
+
+=== Chunk 36 ===
+Text (1 tokens):
+Image
+Serialized (13 tokens):
+Global BEV market share* (12-months trailing)
+Image
+
+=== Chunk 37 ===
+Text (24 tokens):
+Estimated Lifecycle Emissions of Gas Cars versus Robotaxi (gCO 2 e/mi)
+Gas Cars
+Robotaxi
+Serialized (63 tokens):
+A U T O N O M Y   W I L L   F U R T H E R   A C C E L E R A T E   O U R    M I S S I O N
+Estimated Lifecycle Emissions of Gas Cars versus Robotaxi (gCO 2 e/mi)
+Gas Cars
+Robotaxi
+
+=== Chunk 38 ===
+Text (1 tokens):
+Image
+Serialized (45 tokens):
+C Y B E R C A B   T W O - S E A T E R   V E H I C L E   D E S I G N E D    F O R   A U T O N O M Y
+Image
+
+=== Chunk 39 ===
+Text (1 tokens):
+Image
+Serialized (43 tokens):
+C Y B E R C A B   S P A C I O U S   I N T E R I O R   A N D   E X T R A   L A R G E   T R U N K
+Image
+
+=== Chunk 40 ===
+Text (1 tokens):
+Image
+Serialized (42 tokens):
+R O B O V A N   S P A C E   F O R   U P   T O   2 0   &   D E S I G N E D   F O R   A U T O N O M Y
+Image
+
+=== Chunk 41 ===
+Text (2 tokens):
+Image
+Image
+Serialized (54 tokens):
+R O B O T A X I   C H A R G I N G   W I R E L E S S   C H A R G I N G   R E M O V E S   N E E D   F O R   A   H U M A N
+Image
+Image
+
+=== Chunk 42 ===
+Text (1 tokens):
+Image
+Serialized (50 tokens):
+O P T I M U S   H A N D   L A T E S T   G E N E R A T I O N   W I T H   2 X   D E G R E E S   O F   F R E E D O M
+Image
+
+=== Chunk 43 ===
+Text (1 tokens):
+Image
+Serialized (48 tokens):
+F R E M O N T   F A C T O R Y   P R O D U C E D   T E S L A ' S   7 - M I L L I O N T H   V E H I C L E
+Image
+
+=== Chunk 44 ===
+Text (1 tokens):
+Image
+Serialized (23 tokens):
+P O W E R W A L L   3   A V A I L A B L E   N O W
+Image
+
+=== Chunk 45 ===
+Text (1 tokens):
+Image
+Serialized (43 tokens):
+S E M I   F A C T O R Y   C O N S T R U C T I O N   C O N T I N U E S   T O   P R O G R E S S
+Image
+
+=== Chunk 46 ===
+Text (1 tokens):
+Image
+Serialized (25 tokens):
+K E Y M E T R I C S Q U A R T E R L Y (Unaudited)
+Image
+
+=== Chunk 47 ===
+Text (1 tokens):
+Image
+Serialized (37 tokens):
+K E Y M E T R I C S T R A I L I N G 1 2 M O N T H S ( T T M ) (Unaudited)
+Image
+
+=== Chunk 48 ===
+Text (5 tokens):
+(Unaudited)
+Serialized (26 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+(Unaudited)
+
+=== Chunk 49 ===
+Text (235 tokens):
+In millions of USD or shares as applicable, except per share data, 1 = Q3-2023. In millions of USD or shares as applicable, except per share data, 2 = Q4-2023. In millions of USD or shares as applicable, except per share data, 3 = Q1-2024. In millions of USD or shares as applicable, except per share data, 4 = Q2-2024. In millions of USD or shares as applicable, except per share data, 5 = Q3-2024. REVENUES, 1 = . REVENUES, 2 = . REVENUES, 3 = . REVENUES, 4 = . REVENUES, 5 = . Automotive sales, 1 = 18,582. Automotive sales, 2 = 20,630. Automotive sales, 3 = 16,460. Automotive sales, 4 = 18,530. Automotive sales, 5 = 18,831. Automotive regulatory credits, 1 = 554. Automotive regulatory credits, 2 = 433. Automotive regulatory credits, 3 = 442. Automotive regulatory credits, 4 = 890. Automotive regulatory credits, 5 = 739. Automotive leasing, 1 = 489.
+Serialized (256 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+In millions of USD or shares as applicable, except per share data, 1 = Q3-2023. In millions of USD or shares as applicable, except per share data, 2 = Q4-2023. In millions of USD or shares as applicable, except per share data, 3 = Q1-2024. In millions of USD or shares as applicable, except per share data, 4 = Q2-2024. In millions of USD or shares as applicable, except per share data, 5 = Q3-2024. REVENUES, 1 = . REVENUES, 2 = . REVENUES, 3 = . REVENUES, 4 = . REVENUES, 5 = . Automotive sales, 1 = 18,582. Automotive sales, 2 = 20,630. Automotive sales, 3 = 16,460. Automotive sales, 4 = 18,530. Automotive sales, 5 = 18,831. Automotive regulatory credits, 1 = 554. Automotive regulatory credits, 2 = 433. Automotive regulatory credits, 3 = 442. Automotive regulatory credits, 4 = 890. Automotive regulatory credits, 5 = 739. Automotive leasing, 1 = 489.
+
+=== Chunk 50 ===
+Text (234 tokens):
+Automotive leasing, 2 = 500. Automotive leasing, 3 = 476. Automotive leasing, 4 = 458. Automotive leasing, 5 = 446. Total automotive revenues, 1 = 19,625. Total automotive revenues, 2 = 21,563. Total automotive revenues, 3 = 17,378. Total automotive revenues, 4 = 19,878. Total automotive revenues, 5 = 20,016. Energy generation and storage, 1 = 1,559. Energy generation and storage, 2 = 1,438. Energy generation and storage, 3 = 1,635. Energy generation and storage, 4 = 3,014. Energy generation and storage, 5 = 2,376. Services and other, 1 = 2,166. Services and other, 2 = 2,166. Services and other, 3 = 2,288. Services and other, 4 = 2,608. Services and other, 5 = 2,790. Total revenues, 1 = 23,350. Total revenues, 2 = 25,167. Total revenues, 3 = 21,301. Total revenues, 4 = 25,500. Total
+Serialized (255 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+Automotive leasing, 2 = 500. Automotive leasing, 3 = 476. Automotive leasing, 4 = 458. Automotive leasing, 5 = 446. Total automotive revenues, 1 = 19,625. Total automotive revenues, 2 = 21,563. Total automotive revenues, 3 = 17,378. Total automotive revenues, 4 = 19,878. Total automotive revenues, 5 = 20,016. Energy generation and storage, 1 = 1,559. Energy generation and storage, 2 = 1,438. Energy generation and storage, 3 = 1,635. Energy generation and storage, 4 = 3,014. Energy generation and storage, 5 = 2,376. Services and other, 1 = 2,166. Services and other, 2 = 2,166. Services and other, 3 = 2,288. Services and other, 4 = 2,608. Services and other, 5 = 2,790. Total revenues, 1 = 23,350. Total revenues, 2 = 25,167. Total revenues, 3 = 21,301. Total revenues, 4 = 25,500. Total
+
+=== Chunk 51 ===
+Text (235 tokens):
+revenues, 5 = 25,182. COST OF REVENUES, 1 = . COST OF REVENUES, 2 = . COST OF REVENUES, 3 = . COST OF REVENUES, 4 = . COST OF REVENUES, 5 = . Automotive sales, 1 = 15,656. Automotive sales, 2 = 17,202. Automotive sales, 3 = 13,897. Automotive sales, 4 = 15,962. Automotive sales, 5 = 15,743. Automotive leasing, 1 = 301. Automotive leasing, 2 = 296. Automotive leasing, 3 = 269. Automotive leasing, 4 = 245. Automotive leasing, 5 = 247. Total automotive cost of revenues, 1 = 15,957. Total automotive cost of revenues, 2 = 17,498. Total automotive cost of revenues, 3 = 14,166. Total automotive cost of revenues, 4 = 16,207. Total automotive cost of revenues, 5 = 15,990. Energy generation and storage, 1 = 1,178. Energy generation and storage, 2 = 1,124. Energy generation and storage, 3 = 1,232. Energy generation and storage, 4 = 2,274. Energy
+Serialized (256 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+revenues, 5 = 25,182. COST OF REVENUES, 1 = . COST OF REVENUES, 2 = . COST OF REVENUES, 3 = . COST OF REVENUES, 4 = . COST OF REVENUES, 5 = . Automotive sales, 1 = 15,656. Automotive sales, 2 = 17,202. Automotive sales, 3 = 13,897. Automotive sales, 4 = 15,962. Automotive sales, 5 = 15,743. Automotive leasing, 1 = 301. Automotive leasing, 2 = 296. Automotive leasing, 3 = 269. Automotive leasing, 4 = 245. Automotive leasing, 5 = 247. Total automotive cost of revenues, 1 = 15,957. Total automotive cost of revenues, 2 = 17,498. Total automotive cost of revenues, 3 = 14,166. Total automotive cost of revenues, 4 = 16,207. Total automotive cost of revenues, 5 = 15,990. Energy generation and storage, 1 = 1,178. Energy generation and storage, 2 = 1,124. Energy generation and storage, 3 = 1,232. Energy generation and storage, 4 = 2,274. Energy
+
+=== Chunk 52 ===
+Text (235 tokens):
+generation and storage, 5 = 1,651. Services and other, 1 = 2,037. Services and other, 2 = 2,107. Services and other, 3 = 2,207. Services and other, 4 = 2,441. Services and other, 5 = 2,544. Total cost of revenues, 1 = 19,172. Total cost of revenues, 2 = 20,729. Total cost of revenues, 3 = 17,605. Total cost of revenues, 4 = 20,922. Total cost of revenues, 5 = 20,185. Gross profit, 1 = 4,178. Gross profit, 2 = 4,438. Gross profit, 3 = 3,696. Gross profit, 4 = 4,578. Gross profit, 5 = 4,997. OPERATING EXPENSES, 1 = . OPERATING EXPENSES, 2 = . OPERATING EXPENSES, 3 = . OPERATING EXPENSES, 4 = . OPERATING EXPENSES, 5 = . Research and development, 1 = 1,161. Research and development, 2 = 1,094. Research and development, 3 = 1,151. Research and development,
+Serialized (256 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+generation and storage, 5 = 1,651. Services and other, 1 = 2,037. Services and other, 2 = 2,107. Services and other, 3 = 2,207. Services and other, 4 = 2,441. Services and other, 5 = 2,544. Total cost of revenues, 1 = 19,172. Total cost of revenues, 2 = 20,729. Total cost of revenues, 3 = 17,605. Total cost of revenues, 4 = 20,922. Total cost of revenues, 5 = 20,185. Gross profit, 1 = 4,178. Gross profit, 2 = 4,438. Gross profit, 3 = 3,696. Gross profit, 4 = 4,578. Gross profit, 5 = 4,997. OPERATING EXPENSES, 1 = . OPERATING EXPENSES, 2 = . OPERATING EXPENSES, 3 = . OPERATING EXPENSES, 4 = . OPERATING EXPENSES, 5 = . Research and development, 1 = 1,161. Research and development, 2 = 1,094. Research and development, 3 = 1,151. Research and development,
+
+=== Chunk 53 ===
+Text (235 tokens):
+4 = 1,074. Research and development, 5 = 1,039. Selling, general and administrative, 1 = 1,253. Selling, general and administrative, 2 = 1,280. Selling, general and administrative, 3 = 1,374. Selling, general and administrative, 4 = 1,277. Selling, general and administrative, 5 = 1,186. Restructuring and other, 1 = -. Restructuring and other, 2 = -. Restructuring and other, 3 = -. Restructuring and other, 4 = 622. Restructuring and other, 5 = 55. Total operating expenses, 1 = 2,414. Total operating expenses, 2 = 2,374. Total operating expenses, 3 = 2,525. Total operating expenses, 4 = 2,973. Total operating expenses, 5 = 2,280. INCOME FROM OPERATIONS, 1 = 1,764. INCOME FROM OPERATIONS, 2 = 2,064. INCOME FROM OPERATIONS, 3 = 1,171. INCOME FROM OPERATIONS, 4 = 1,605. INCOME FROM OPERATIONS, 5 = 2,717. Interest income, 1 = 282. Interest
+Serialized (256 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+4 = 1,074. Research and development, 5 = 1,039. Selling, general and administrative, 1 = 1,253. Selling, general and administrative, 2 = 1,280. Selling, general and administrative, 3 = 1,374. Selling, general and administrative, 4 = 1,277. Selling, general and administrative, 5 = 1,186. Restructuring and other, 1 = -. Restructuring and other, 2 = -. Restructuring and other, 3 = -. Restructuring and other, 4 = 622. Restructuring and other, 5 = 55. Total operating expenses, 1 = 2,414. Total operating expenses, 2 = 2,374. Total operating expenses, 3 = 2,525. Total operating expenses, 4 = 2,973. Total operating expenses, 5 = 2,280. INCOME FROM OPERATIONS, 1 = 1,764. INCOME FROM OPERATIONS, 2 = 2,064. INCOME FROM OPERATIONS, 3 = 1,171. INCOME FROM OPERATIONS, 4 = 1,605. INCOME FROM OPERATIONS, 5 = 2,717. Interest income, 1 = 282. Interest
+
+=== Chunk 54 ===
+Text (234 tokens):
+income, 2 = 333. Interest income, 3 = 350. Interest income, 4 = 348. Interest income, 5 = 429. Interest expense, 1 = (38). Interest expense, 2 = (61). Interest expense, 3 = (76). Interest expense, 4 = (86). Interest expense, 5 = (92). Other income (expense), net, 1 = 37. Other income (expense), net, 2 = (145). Other income (expense), net, 3 = 108. Other income (expense), net, 4 = 20. Other income (expense), net, 5 = (270). , 1 = . , 2 = 2,191. , 3 = 1,553. , 4 = . , 5 = . INCOME BEFORE INCOME TAXES, 1 = 2,045. INCOME BEFORE INCOME TAXES, 2 = . INCOME BEFORE INCOME TAXES, 3 = . INCOME BEFORE INCOME TAXES, 4 = 1,887. INCOME BEFORE INCOME TAXES, 5 = 2,784. Provision for (benefit from) income taxes, 1 = 167. Provision for (benefit
+Serialized (255 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+income, 2 = 333. Interest income, 3 = 350. Interest income, 4 = 348. Interest income, 5 = 429. Interest expense, 1 = (38). Interest expense, 2 = (61). Interest expense, 3 = (76). Interest expense, 4 = (86). Interest expense, 5 = (92). Other income (expense), net, 1 = 37. Other income (expense), net, 2 = (145). Other income (expense), net, 3 = 108. Other income (expense), net, 4 = 20. Other income (expense), net, 5 = (270). , 1 = . , 2 = 2,191. , 3 = 1,553. , 4 = . , 5 = . INCOME BEFORE INCOME TAXES, 1 = 2,045. INCOME BEFORE INCOME TAXES, 2 = . INCOME BEFORE INCOME TAXES, 3 = . INCOME BEFORE INCOME TAXES, 4 = 1,887. INCOME BEFORE INCOME TAXES, 5 = 2,784. Provision for (benefit from) income taxes, 1 = 167. Provision for (benefit
+
+=== Chunk 55 ===
+Text (232 tokens):
+from) income taxes, 2 = (5,752). Provision for (benefit from) income taxes, 3 = 409. Provision for (benefit from) income taxes, 4 = 393. Provision for (benefit from) income taxes, 5 = 601. NET INCOME, 1 = 1,878. NET INCOME, 2 = 7,943. NET INCOME, 3 = 1,144. NET INCOME, 4 = 1,494. NET INCOME, 5 = 2,183. Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries, 1 = 25. Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries, 2 = 15. Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries, 3 = 15. Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries, 4 = 16. Net income attributable to noncontrolling interests and redeemable
+Serialized (253 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+from) income taxes, 2 = (5,752). Provision for (benefit from) income taxes, 3 = 409. Provision for (benefit from) income taxes, 4 = 393. Provision for (benefit from) income taxes, 5 = 601. NET INCOME, 1 = 1,878. NET INCOME, 2 = 7,943. NET INCOME, 3 = 1,144. NET INCOME, 4 = 1,494. NET INCOME, 5 = 2,183. Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries, 1 = 25. Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries, 2 = 15. Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries, 3 = 15. Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries, 4 = 16. Net income attributable to noncontrolling interests and redeemable
+
+=== Chunk 56 ===
+Text (200 tokens):
+noncontrolling interests in subsidiaries, 5 = 16. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 1 = 1,853. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 2 = 7,928. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 3 = 1,129. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 4 = 1,478. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 5 = 2,167. Net income per share of common stock attributable to common stockholders, 1 = . Net income per share of common stock attributable to common stockholders, 2 = . Net income per share of common stock attributable to common stockholders, 3 = . Net income per share of common stock attributable to common stockholders, 4 = . Net income per share of common stock attributable to common stockholders, 5 = . Basic, 1 = $
+Serialized (221 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+noncontrolling interests in subsidiaries, 5 = 16. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 1 = 1,853. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 2 = 7,928. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 3 = 1,129. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 4 = 1,478. NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS, 5 = 2,167. Net income per share of common stock attributable to common stockholders, 1 = . Net income per share of common stock attributable to common stockholders, 2 = . Net income per share of common stock attributable to common stockholders, 3 = . Net income per share of common stock attributable to common stockholders, 4 = . Net income per share of common stock attributable to common stockholders, 5 = . Basic, 1 = $
+
+=== Chunk 57 ===
+Text (86 tokens):
+0.58. Basic, 2 = $        2.49. Basic, 3 = $        0.37. Basic, 4 = $        0.46. Basic, 5 = $        0.68. Diluted, 1 = $        0.53. Diluted, 2 = $        2.27. Diluted, 3 = $        0.34. Diluted, 4 = $        0.42. Diluted, 5 = $
+Serialized (107 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+0.58. Basic, 2 = $        2.49. Basic, 3 = $        0.37. Basic, 4 = $        0.46. Basic, 5 = $        0.68. Diluted, 1 = $        0.53. Diluted, 2 = $        2.27. Diluted, 3 = $        0.34. Diluted, 4 = $        0.42. Diluted, 5 = $
+
+=== Chunk 58 ===
+Text (178 tokens):
+0.62. Weighted average shares used in computing net income per share of common stock, 1 = . Weighted average shares used in computing net income per share of common stock, 2 = . Weighted average shares used in computing net income per share of common stock, 3 = . Weighted average shares used in computing net income per share of common stock, 4 = . Weighted average shares used in computing net income per share of common stock, 5 = . Basic, 1 = 3,176. Basic, 2 = 3,181. Basic, 3 = 3,186. Basic, 4 = 3,191. Basic, 5 = 3,198. Diluted, 1 = 3,493. Diluted, 2 = 3,492. Diluted, 3 = 3,484. Diluted, 4 = 3,481. Diluted, 5 = 3,497
+Serialized (199 tokens):
+S T A T E M E N T   O F   O P E R A T I O N S
+0.62. Weighted average shares used in computing net income per share of common stock, 1 = . Weighted average shares used in computing net income per share of common stock, 2 = . Weighted average shares used in computing net income per share of common stock, 3 = . Weighted average shares used in computing net income per share of common stock, 4 = . Weighted average shares used in computing net income per share of common stock, 5 = . Basic, 1 = 3,176. Basic, 2 = 3,181. Basic, 3 = 3,186. Basic, 4 = 3,191. Basic, 5 = 3,198. Diluted, 1 = 3,493. Diluted, 2 = 3,492. Diluted, 3 = 3,484. Diluted, 4 = 3,481. Diluted, 5 = 3,497
+
+=== Chunk 59 ===
+Text (5 tokens):
+(Unaudited)
+Serialized (17 tokens):
+B A L A N C E  S H E E T
+(Unaudited)
+
+=== Chunk 60 ===
+Text (244 tokens):
+In millions of USD, 1 = 30-Sep-23. In millions of USD, 2 = 31-Dec-23. In millions of USD, 3 = 31-Mar-24. In millions of USD, 4 = 30-Jun-24. In millions of USD, 5 = 30-Sep-24. ASSETS, 1 = . ASSETS, 2 = . ASSETS, 3 = . ASSETS, 4 = . ASSETS, 5 = . Current assets, 1 = . Current assets, 2 = . Current assets, 3 = . Current assets, 4 = . Current assets, 5 = . Cash, cash equivalents and investments, 1 = 26,077. Cash, cash equivalents and investments, 2 = 29,094. Cash, cash equivalents and investments, 3 = 26,863. Cash, cash equivalents and investments, 4 = 30,720. Cash, cash equivalents and investments, 5 = 33,648. Accounts receivable, net, 1 = 2,520. Accounts receivable, net, 2 = 3,508. Accounts receivable, net, 3 = 3,887. Accounts receivable, net, 4 =
+Serialized (256 tokens):
+B A L A N C E  S H E E T
+In millions of USD, 1 = 30-Sep-23. In millions of USD, 2 = 31-Dec-23. In millions of USD, 3 = 31-Mar-24. In millions of USD, 4 = 30-Jun-24. In millions of USD, 5 = 30-Sep-24. ASSETS, 1 = . ASSETS, 2 = . ASSETS, 3 = . ASSETS, 4 = . ASSETS, 5 = . Current assets, 1 = . Current assets, 2 = . Current assets, 3 = . Current assets, 4 = . Current assets, 5 = . Cash, cash equivalents and investments, 1 = 26,077. Cash, cash equivalents and investments, 2 = 29,094. Cash, cash equivalents and investments, 3 = 26,863. Cash, cash equivalents and investments, 4 = 30,720. Cash, cash equivalents and investments, 5 = 33,648. Accounts receivable, net, 1 = 2,520. Accounts receivable, net, 2 = 3,508. Accounts receivable, net, 3 = 3,887. Accounts receivable, net, 4 =
+
+=== Chunk 61 ===
+Text (244 tokens):
+3,737. Accounts receivable, net, 5 = 3,313. Inventory, 1 = 13,721. Inventory, 2 = 13,626. Inventory, 3 = 16,033. Inventory, 4 = 14,195. Inventory, 5 = 14,530. Prepaid expenses and other current assets, 1 = 2,708. Prepaid expenses and other current assets, 2 = 3,388. Prepaid expenses and other current assets, 3 = 3,752. Prepaid expenses and other current assets, 4 = 4,325. Prepaid expenses and other current assets, 5 = 4,888. Total current assets, 1 = 45,026. Total current assets, 2 = 49,616. Total current assets, 3 = 50,535. Total current assets, 4 = 52,977. Total current assets, 5 = 56,379. Operating lease vehicles, net, 1 = 6,119. Operating lease vehicles, net, 2 = 5,989. Operating lease vehicles, net, 3 = 5,736. Operating lease vehicles, net, 4 = 5,541. Operating lease vehicles,
+Serialized (256 tokens):
+B A L A N C E  S H E E T
+3,737. Accounts receivable, net, 5 = 3,313. Inventory, 1 = 13,721. Inventory, 2 = 13,626. Inventory, 3 = 16,033. Inventory, 4 = 14,195. Inventory, 5 = 14,530. Prepaid expenses and other current assets, 1 = 2,708. Prepaid expenses and other current assets, 2 = 3,388. Prepaid expenses and other current assets, 3 = 3,752. Prepaid expenses and other current assets, 4 = 4,325. Prepaid expenses and other current assets, 5 = 4,888. Total current assets, 1 = 45,026. Total current assets, 2 = 49,616. Total current assets, 3 = 50,535. Total current assets, 4 = 52,977. Total current assets, 5 = 56,379. Operating lease vehicles, net, 1 = 6,119. Operating lease vehicles, net, 2 = 5,989. Operating lease vehicles, net, 3 = 5,736. Operating lease vehicles, net, 4 = 5,541. Operating lease vehicles,
+
+=== Chunk 62 ===
+Text (243 tokens):
+net, 5 = 5,380. Solar energy systems, net, 1 = 5,293. Solar energy systems, net, 2 = 5,229. Solar energy systems, net, 3 = 5,162. Solar energy systems, net, 4 = 5,102. Solar energy systems, net, 5 = 5,040. Property, plant and equipment, net, 1 = 27,744. Property, plant and equipment, net, 2 = 29,725. Property, plant and equipment, net, 3 = 31,436. Property, plant and equipment, net, 4 = 32,902. Property, plant and equipment, net, 5 = 36,116. Operating lease right-of-use assets, 1 = 3,637. Operating lease right-of-use assets, 2 = 4,180. Operating lease right-of-use assets, 3 = 4,367. Operating lease right-of-use assets, 4 = 4,563. Operating lease right-of-use assets, 5 = 4,867. Digital assets, net, 1 = 184. Digital assets, net, 2 = 184. Digital assets,
+Serialized (255 tokens):
+B A L A N C E  S H E E T
+net, 5 = 5,380. Solar energy systems, net, 1 = 5,293. Solar energy systems, net, 2 = 5,229. Solar energy systems, net, 3 = 5,162. Solar energy systems, net, 4 = 5,102. Solar energy systems, net, 5 = 5,040. Property, plant and equipment, net, 1 = 27,744. Property, plant and equipment, net, 2 = 29,725. Property, plant and equipment, net, 3 = 31,436. Property, plant and equipment, net, 4 = 32,902. Property, plant and equipment, net, 5 = 36,116. Operating lease right-of-use assets, 1 = 3,637. Operating lease right-of-use assets, 2 = 4,180. Operating lease right-of-use assets, 3 = 4,367. Operating lease right-of-use assets, 4 = 4,563. Operating lease right-of-use assets, 5 = 4,867. Digital assets, net, 1 = 184. Digital assets, net, 2 = 184. Digital assets,
+
+=== Chunk 63 ===
+Text (244 tokens):
+net, 3 = 184. Digital assets, net, 4 = 184. Digital assets, net, 5 = 184. Goodwill and intangible assets, net, 1 = 441. Goodwill and intangible assets, net, 2 = 431. Goodwill and intangible assets, net, 3 = 421. Goodwill and intangible assets, net, 4 = 413. Goodwill and intangible assets, net, 5 = 411. Deferred tax assets, 1 = 648. Deferred tax assets, 2 = 6,733. Deferred tax assets, 3 = 6,769. Deferred tax assets, 4 = 6,692. Deferred tax assets, 5 = 6,486. Other non-current assets, 1 = 4,849. Other non-current assets, 2 = 4,531. Other non-current assets, 3 = 4,616. Other non-current assets, 4 = 4,458. Other non-current assets, 5 = 4,989. Total assets, 1 = 93,941. Total assets, 2 = 106,618. Total assets, 3 =
+Serialized (256 tokens):
+B A L A N C E  S H E E T
+net, 3 = 184. Digital assets, net, 4 = 184. Digital assets, net, 5 = 184. Goodwill and intangible assets, net, 1 = 441. Goodwill and intangible assets, net, 2 = 431. Goodwill and intangible assets, net, 3 = 421. Goodwill and intangible assets, net, 4 = 413. Goodwill and intangible assets, net, 5 = 411. Deferred tax assets, 1 = 648. Deferred tax assets, 2 = 6,733. Deferred tax assets, 3 = 6,769. Deferred tax assets, 4 = 6,692. Deferred tax assets, 5 = 6,486. Other non-current assets, 1 = 4,849. Other non-current assets, 2 = 4,531. Other non-current assets, 3 = 4,616. Other non-current assets, 4 = 4,458. Other non-current assets, 5 = 4,989. Total assets, 1 = 93,941. Total assets, 2 = 106,618. Total assets, 3 =
+
+=== Chunk 64 ===
+Text (240 tokens):
+109,226. Total assets, 4 = 112,832. Total assets, 5 = 119,852. LIABILITIES AND EQUITY, 1 = . LIABILITIES AND EQUITY, 2 = . LIABILITIES AND EQUITY, 3 = . LIABILITIES AND EQUITY, 4 = . LIABILITIES AND EQUITY, 5 = . Current liabilities, 1 = . Current liabilities, 2 = . Current liabilities, 3 = . Current liabilities, 4 = . Current liabilities, 5 = . Accounts payable, 1 = 13,937. Accounts payable, 2 = 14,431. Accounts payable, 3 = 14,725. Accounts payable, 4 = 13,056. Accounts payable, 5 = 14,654. Accrued liabilities and other, 1 = 8,530. Accrued liabilities and other, 2 = 9,080. Accrued liabilities and other, 3 = 9,243. Accrued liabilities and other, 4 = 9,616. Accrued liabilities and other, 5 = 10,601. Deferred revenue, 1 = 2,206. Deferred revenue, 2 =
+Serialized (252 tokens):
+B A L A N C E  S H E E T
+109,226. Total assets, 4 = 112,832. Total assets, 5 = 119,852. LIABILITIES AND EQUITY, 1 = . LIABILITIES AND EQUITY, 2 = . LIABILITIES AND EQUITY, 3 = . LIABILITIES AND EQUITY, 4 = . LIABILITIES AND EQUITY, 5 = . Current liabilities, 1 = . Current liabilities, 2 = . Current liabilities, 3 = . Current liabilities, 4 = . Current liabilities, 5 = . Accounts payable, 1 = 13,937. Accounts payable, 2 = 14,431. Accounts payable, 3 = 14,725. Accounts payable, 4 = 13,056. Accounts payable, 5 = 14,654. Accrued liabilities and other, 1 = 8,530. Accrued liabilities and other, 2 = 9,080. Accrued liabilities and other, 3 = 9,243. Accrued liabilities and other, 4 = 9,616. Accrued liabilities and other, 5 = 10,601. Deferred revenue, 1 = 2,206. Deferred revenue, 2 =
+
+=== Chunk 65 ===
+Text (243 tokens):
+2,864. Deferred revenue, 3 = 3,024. Deferred revenue, 4 = 2,793. Deferred revenue, 5 = 3,031. Current portion of debt and finance leases (1), 1 = 1,967. Current portion of debt and finance leases (1), 2 = 2,373. Current portion of debt and finance leases (1), 3 = 2,461. Current portion of debt and finance leases (1), 4 = 2,264. Current portion of debt and finance leases (1), 5 = 2,291. Total current liabilities, 1 = 26,640. Total current liabilities, 2 = 28,748. Total current liabilities, 3 = 29,453. Total current liabilities, 4 = 27,729. Total current liabilities, 5 = 30,577. Debt and finance leases, net of current portion (1), 1 = 2,426. Debt and finance leases, net of current portion (1), 2 = 2,857. Debt and finance leases, net of current portion (1), 3 =
+Serialized (255 tokens):
+B A L A N C E  S H E E T
+2,864. Deferred revenue, 3 = 3,024. Deferred revenue, 4 = 2,793. Deferred revenue, 5 = 3,031. Current portion of debt and finance leases (1), 1 = 1,967. Current portion of debt and finance leases (1), 2 = 2,373. Current portion of debt and finance leases (1), 3 = 2,461. Current portion of debt and finance leases (1), 4 = 2,264. Current portion of debt and finance leases (1), 5 = 2,291. Total current liabilities, 1 = 26,640. Total current liabilities, 2 = 28,748. Total current liabilities, 3 = 29,453. Total current liabilities, 4 = 27,729. Total current liabilities, 5 = 30,577. Debt and finance leases, net of current portion (1), 1 = 2,426. Debt and finance leases, net of current portion (1), 2 = 2,857. Debt and finance leases, net of current portion (1), 3 =
+
+=== Chunk 66 ===
+Text (242 tokens):
+2,899. Debt and finance leases, net of current portion (1), 4 = 5,481. Debt and finance leases, net of current portion (1), 5 = 5,405. Deferred revenue, net of current portion, 1 = 3,059. Deferred revenue, net of current portion, 2 = 3,251. Deferred revenue, net of current portion, 3 = 3,214. Deferred revenue, net of current portion, 4 = 3,357. Deferred revenue, net of current portion, 5 = 3,350. Other long-term liabilities, 1 = 7,321. Other long-term liabilities, 2 = 8,153. Other long-term liabilities, 3 = 8,480. Other long-term liabilities, 4 = 9,002. Other long-term liabilities, 5 = 9,810. Total liabilities, 1 = 39,446. Total liabilities, 2 = 43,009. Total liabilities, 3 = 44,046. Total liabilities, 4 = 45,569. Total liabilities, 5 =
+Serialized (254 tokens):
+B A L A N C E  S H E E T
+2,899. Debt and finance leases, net of current portion (1), 4 = 5,481. Debt and finance leases, net of current portion (1), 5 = 5,405. Deferred revenue, net of current portion, 1 = 3,059. Deferred revenue, net of current portion, 2 = 3,251. Deferred revenue, net of current portion, 3 = 3,214. Deferred revenue, net of current portion, 4 = 3,357. Deferred revenue, net of current portion, 5 = 3,350. Other long-term liabilities, 1 = 7,321. Other long-term liabilities, 2 = 8,153. Other long-term liabilities, 3 = 8,480. Other long-term liabilities, 4 = 9,002. Other long-term liabilities, 5 = 9,810. Total liabilities, 1 = 39,446. Total liabilities, 2 = 43,009. Total liabilities, 3 = 44,046. Total liabilities, 4 = 45,569. Total liabilities, 5 =
+
+=== Chunk 67 ===
+Text (243 tokens):
+49,142. Redeemable noncontrolling interests in subsidiaries, 1 = 277. Redeemable noncontrolling interests in subsidiaries, 2 = 242. Redeemable noncontrolling interests in subsidiaries, 3 = 73. Redeemable noncontrolling interests in subsidiaries, 4 = 72. Redeemable noncontrolling interests in subsidiaries, 5 = 70. Total stockholders' equity, 1 = 53,466. Total stockholders' equity, 2 = 62,634. Total stockholders' equity, 3 = 64,378. Total stockholders' equity, 4 = 66,468. Total stockholders' equity, 5 = 69,931. Noncontrolling interests in subsidiaries, 1 = 752. Noncontrolling interests in subsidiaries, 2 = 733. Noncontrolling interests in subsidiaries, 3 = 729. Noncontrolling interests in subsidiaries, 4 = 723. Noncontrolling interests in subsidiaries, 5 = 709. Total liabilities and equity, 1 = 93,941. Total liabilities and equity, 2 = 106,618. Total liabilities and equity, 3 =
+Serialized (255 tokens):
+B A L A N C E  S H E E T
+49,142. Redeemable noncontrolling interests in subsidiaries, 1 = 277. Redeemable noncontrolling interests in subsidiaries, 2 = 242. Redeemable noncontrolling interests in subsidiaries, 3 = 73. Redeemable noncontrolling interests in subsidiaries, 4 = 72. Redeemable noncontrolling interests in subsidiaries, 5 = 70. Total stockholders' equity, 1 = 53,466. Total stockholders' equity, 2 = 62,634. Total stockholders' equity, 3 = 64,378. Total stockholders' equity, 4 = 66,468. Total stockholders' equity, 5 = 69,931. Noncontrolling interests in subsidiaries, 1 = 752. Noncontrolling interests in subsidiaries, 2 = 733. Noncontrolling interests in subsidiaries, 3 = 729. Noncontrolling interests in subsidiaries, 4 = 723. Noncontrolling interests in subsidiaries, 5 = 709. Total liabilities and equity, 1 = 93,941. Total liabilities and equity, 2 = 106,618. Total liabilities and equity, 3 =
+
+=== Chunk 68 ===
+Text (243 tokens):
+109,226. Total liabilities and equity, 4 = 112,832. Total liabilities and equity, 5 = 119,852. (1) Breakdown of our debt is as follows:, 1 = . (1) Breakdown of our debt is as follows:, 2 = . (1) Breakdown of our debt is as follows:, 3 = . (1) Breakdown of our debt is as follows:, 4 = . (1) Breakdown of our debt is as follows:, 5 = . Non-recourse debt, 1 = 3,660. Non-recourse debt, 2 = 4,613. Non-recourse debt, 3 = 4,820. Non-recourse debt, 4 = 7,355. Non-recourse debt, 5 = 7,379. Recourse debt, 1 = 44. Recourse debt, 2 = 44. Recourse debt, 3 = 54. Recourse debt, 4 = 7. Recourse debt, 5 = 11. Days sales outstanding, 1 = 12. Days sales outstanding, 2 = 11. Days sales outstanding, 3 = 16. Days sales
+Serialized (255 tokens):
+B A L A N C E  S H E E T
+109,226. Total liabilities and equity, 4 = 112,832. Total liabilities and equity, 5 = 119,852. (1) Breakdown of our debt is as follows:, 1 = . (1) Breakdown of our debt is as follows:, 2 = . (1) Breakdown of our debt is as follows:, 3 = . (1) Breakdown of our debt is as follows:, 4 = . (1) Breakdown of our debt is as follows:, 5 = . Non-recourse debt, 1 = 3,660. Non-recourse debt, 2 = 4,613. Non-recourse debt, 3 = 4,820. Non-recourse debt, 4 = 7,355. Non-recourse debt, 5 = 7,379. Recourse debt, 1 = 44. Recourse debt, 2 = 44. Recourse debt, 3 = 54. Recourse debt, 4 = 7. Recourse debt, 5 = 11. Days sales outstanding, 1 = 12. Days sales outstanding, 2 = 11. Days sales outstanding, 3 = 16. Days sales
+
+=== Chunk 69 ===
+Text (58 tokens):
+outstanding, 4 = 14. Days sales outstanding, 5 = 13. Days payable outstanding, 1 = 70. Days payable outstanding, 2 = 63. Days payable outstanding, 3 = 75. Days payable outstanding, 4 = 60. Days payable outstanding, 5 = 63
+Serialized (70 tokens):
+B A L A N C E  S H E E T
+outstanding, 4 = 14. Days sales outstanding, 5 = 13. Days payable outstanding, 1 = 70. Days payable outstanding, 2 = 63. Days payable outstanding, 3 = 75. Days payable outstanding, 4 = 60. Days payable outstanding, 5 = 63
+
+=== Chunk 70 ===
+Text (5 tokens):
+(Unaudited)
+Serialized (25 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+(Unaudited)
+
+=== Chunk 71 ===
+Text (236 tokens):
+In millions of USD, 1 = Q3-2023. In millions of USD, 2 = Q4-2023. In millions of USD, 3 = Q1-2024. In millions of USD, 4 = Q2-2024. In millions of USD, 5 = Q3-2024. CASH FLOWS FROM OPERATING ACTIVITIES, 1 = . CASH FLOWS FROM OPERATING ACTIVITIES, 2 = . CASH FLOWS FROM OPERATING ACTIVITIES, 3 = . CASH FLOWS FROM OPERATING ACTIVITIES, 4 = . CASH FLOWS FROM OPERATING ACTIVITIES, 5 = . Net income, 1 = 1,878. Net income, 2 = 7,943. Net income, 3 = 1,144. Net income, 4 = 1,494. Net income, 5 = 2,183. Adjustments to reconcile net income to net cash provided by operating activities:, 1 = . Adjustments to reconcile net income to net cash provided by operating activities:, 2 = . Adjustments to reconcile net income to net cash provided by operating activities:, 3 = . Adjustments to reconcile net income to net cash provided by operating activities:, 4 = . Adjustments to reconcile net income to net cash provided by
+Serialized (256 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+In millions of USD, 1 = Q3-2023. In millions of USD, 2 = Q4-2023. In millions of USD, 3 = Q1-2024. In millions of USD, 4 = Q2-2024. In millions of USD, 5 = Q3-2024. CASH FLOWS FROM OPERATING ACTIVITIES, 1 = . CASH FLOWS FROM OPERATING ACTIVITIES, 2 = . CASH FLOWS FROM OPERATING ACTIVITIES, 3 = . CASH FLOWS FROM OPERATING ACTIVITIES, 4 = . CASH FLOWS FROM OPERATING ACTIVITIES, 5 = . Net income, 1 = 1,878. Net income, 2 = 7,943. Net income, 3 = 1,144. Net income, 4 = 1,494. Net income, 5 = 2,183. Adjustments to reconcile net income to net cash provided by operating activities:, 1 = . Adjustments to reconcile net income to net cash provided by operating activities:, 2 = . Adjustments to reconcile net income to net cash provided by operating activities:, 3 = . Adjustments to reconcile net income to net cash provided by operating activities:, 4 = . Adjustments to reconcile net income to net cash provided by
+
+=== Chunk 72 ===
+Text (236 tokens):
+operating activities:, 5 = . Depreciation, amortization and impairment, 1 = 1,235. Depreciation, amortization and impairment, 2 = 1,232. Depreciation, amortization and impairment, 3 = 1,246. Depreciation, amortization and impairment, 4 = 1,278. Depreciation, amortization and impairment, 5 = 1,348. Stock-based compensation, 1 = 465. Stock-based compensation, 2 = 484. Stock-based compensation, 3 = 524. Stock-based compensation, 4 = 439. Stock-based compensation, 5 = 457. Deferred income taxes, 1 = (113). Deferred income taxes, 2 = (6,033). Deferred income taxes, 3 = (11). Deferred income taxes, 4 = 144. Deferred income taxes, 5 = 285. Other, 1 = 145. Other, 2 = 262. Other, 3 = -. Other, 4 = 119. Other, 5 = 408. Changes in operating assets and liabilities,
+Serialized (256 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+operating activities:, 5 = . Depreciation, amortization and impairment, 1 = 1,235. Depreciation, amortization and impairment, 2 = 1,232. Depreciation, amortization and impairment, 3 = 1,246. Depreciation, amortization and impairment, 4 = 1,278. Depreciation, amortization and impairment, 5 = 1,348. Stock-based compensation, 1 = 465. Stock-based compensation, 2 = 484. Stock-based compensation, 3 = 524. Stock-based compensation, 4 = 439. Stock-based compensation, 5 = 457. Deferred income taxes, 1 = (113). Deferred income taxes, 2 = (6,033). Deferred income taxes, 3 = (11). Deferred income taxes, 4 = 144. Deferred income taxes, 5 = 285. Other, 1 = 145. Other, 2 = 262. Other, 3 = -. Other, 4 = 119. Other, 5 = 408. Changes in operating assets and liabilities,
+
+=== Chunk 73 ===
+Text (236 tokens):
+1 = (302). Changes in operating assets and liabilities, 2 = 482. Changes in operating assets and liabilities, 3 = (2,661). Changes in operating assets and liabilities, 4 = 138. Changes in operating assets and liabilities, 5 = 1,574. Net cash provided by operating activities, 1 = 3,308. Net cash provided by operating activities, 2 = 4,370. Net cash provided by operating activities, 3 = 242. Net cash provided by operating activities, 4 = 3,612. Net cash provided by operating activities, 5 = 6,255. CASH FLOWS FROM INVESTING ACTIVITIES, 1 = . CASH FLOWS FROM INVESTING ACTIVITIES, 2 = . CASH FLOWS FROM INVESTING ACTIVITIES, 3 = . CASH FLOWS FROM INVESTING ACTIVITIES, 4 = . CASH FLOWS FROM INVESTING ACTIVITIES, 5 = . Capital expenditures, 1 = (2,460). Capital expenditures, 2 = (2,306). Capital expenditures, 3 = (2,773). Capital expenditures, 4 = (2,270). Capital expenditures, 5 = (3,513). Purchases of solar energy systems, net
+Serialized (256 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+1 = (302). Changes in operating assets and liabilities, 2 = 482. Changes in operating assets and liabilities, 3 = (2,661). Changes in operating assets and liabilities, 4 = 138. Changes in operating assets and liabilities, 5 = 1,574. Net cash provided by operating activities, 1 = 3,308. Net cash provided by operating activities, 2 = 4,370. Net cash provided by operating activities, 3 = 242. Net cash provided by operating activities, 4 = 3,612. Net cash provided by operating activities, 5 = 6,255. CASH FLOWS FROM INVESTING ACTIVITIES, 1 = . CASH FLOWS FROM INVESTING ACTIVITIES, 2 = . CASH FLOWS FROM INVESTING ACTIVITIES, 3 = . CASH FLOWS FROM INVESTING ACTIVITIES, 4 = . CASH FLOWS FROM INVESTING ACTIVITIES, 5 = . Capital expenditures, 1 = (2,460). Capital expenditures, 2 = (2,306). Capital expenditures, 3 = (2,773). Capital expenditures, 4 = (2,270). Capital expenditures, 5 = (3,513). Purchases of solar energy systems, net
+
+=== Chunk 74 ===
+Text (236 tokens):
+of sales, 1 = 1. Purchases of solar energy systems, net of sales, 2 = (1). Purchases of solar energy systems, net of sales, 3 = (4). Purchases of solar energy systems, net of sales, 4 = (2). Purchases of solar energy systems, net of sales, 5 = -. Purchases of investments, 1 = (6,131). Purchases of investments, 2 = (5,891). Purchases of investments, 3 = (6,622). Purchases of investments, 4 = (8,143). Purchases of investments, 5 = (6,032). Proceeds from maturities of investments, 1 = 3,816. Proceeds from maturities of investments, 2 = 3,394. Proceeds from maturities of investments, 3 = 4,315. Proceeds from maturities of investments, 4 = 6,990. Proceeds from maturities of investments, 5 = 6,670. Proceeds from sales of investments, 1 = -. Proceeds from sales of investments, 2 = -. Proceeds from sales of investments, 3 = -. Proceeds from sales of investments,
+Serialized (256 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+of sales, 1 = 1. Purchases of solar energy systems, net of sales, 2 = (1). Purchases of solar energy systems, net of sales, 3 = (4). Purchases of solar energy systems, net of sales, 4 = (2). Purchases of solar energy systems, net of sales, 5 = -. Purchases of investments, 1 = (6,131). Purchases of investments, 2 = (5,891). Purchases of investments, 3 = (6,622). Purchases of investments, 4 = (8,143). Purchases of investments, 5 = (6,032). Proceeds from maturities of investments, 1 = 3,816. Proceeds from maturities of investments, 2 = 3,394. Proceeds from maturities of investments, 3 = 4,315. Proceeds from maturities of investments, 4 = 6,990. Proceeds from maturities of investments, 5 = 6,670. Proceeds from sales of investments, 1 = -. Proceeds from sales of investments, 2 = -. Proceeds from sales of investments, 3 = -. Proceeds from sales of investments,
+
+=== Chunk 75 ===
+Text (235 tokens):
+4 = 200. Proceeds from sales of investments, 5 = -. Business combinations, net of cash acquired, 1 = 12. Business combinations, net of cash acquired, 2 = -. Business combinations, net of cash acquired, 3 = -. Business combinations, net of cash acquired, 4 = -. Business combinations, net of cash acquired, 5 = -. Net cash used in investing activities, 1 = (4,762). Net cash used in investing activities, 2 = (4,804). Net cash used in investing activities, 3 = (5,084). Net cash used in investing activities, 4 = (3,225). Net cash used in investing activities, 5 = (2,875). CASH FLOWS FROM FINANCING ACTIVITIES, 1 = . CASH FLOWS FROM FINANCING ACTIVITIES, 2 = . CASH FLOWS FROM FINANCING ACTIVITIES, 3 = . CASH FLOWS FROM FINANCING ACTIVITIES, 4 = . CASH FLOWS FROM FINANCING ACTIVITIES, 5 = . Net cash flows from other debt activities, 1 = (140). Net cash flows from other debt activities, 2 = (141). Net cash flows from other debt activities, 3 =
+Serialized (255 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+4 = 200. Proceeds from sales of investments, 5 = -. Business combinations, net of cash acquired, 1 = 12. Business combinations, net of cash acquired, 2 = -. Business combinations, net of cash acquired, 3 = -. Business combinations, net of cash acquired, 4 = -. Business combinations, net of cash acquired, 5 = -. Net cash used in investing activities, 1 = (4,762). Net cash used in investing activities, 2 = (4,804). Net cash used in investing activities, 3 = (5,084). Net cash used in investing activities, 4 = (3,225). Net cash used in investing activities, 5 = (2,875). CASH FLOWS FROM FINANCING ACTIVITIES, 1 = . CASH FLOWS FROM FINANCING ACTIVITIES, 2 = . CASH FLOWS FROM FINANCING ACTIVITIES, 3 = . CASH FLOWS FROM FINANCING ACTIVITIES, 4 = . CASH FLOWS FROM FINANCING ACTIVITIES, 5 = . Net cash flows from other debt activities, 1 = (140). Net cash flows from other debt activities, 2 = (141). Net cash flows from other debt activities, 3 =
+
+=== Chunk 76 ===
+Text (236 tokens):
+(140). Net cash flows from other debt activities, 4 = 2,598. Net cash flows from other debt activities, 5 = (75). Net borrowings (repayments) under vehicle and energy product financing, 1 = 2,194. Net borrowings (repayments) under vehicle and energy product financing, 2 = 952. Net borrowings (repayments) under vehicle and energy product financing, 3 = 216. Net borrowings (repayments) under vehicle and energy product financing, 4 = (212). Net borrowings (repayments) under vehicle and energy product financing, 5 = (107). Net cash flows from noncontrolling interests - Solar, 1 = (45). Net cash flows from noncontrolling interests - Solar, 2 = (76). Net cash flows from noncontrolling interests - Solar, 3 = (131). Net cash flows from noncontrolling interests - Solar, 4 = (43). Net cash flows from noncontrolling interests - Solar, 5 = (26). Other, 1 = 254. Other, 2 = 152. Other, 3 =
+Serialized (256 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+(140). Net cash flows from other debt activities, 4 = 2,598. Net cash flows from other debt activities, 5 = (75). Net borrowings (repayments) under vehicle and energy product financing, 1 = 2,194. Net borrowings (repayments) under vehicle and energy product financing, 2 = 952. Net borrowings (repayments) under vehicle and energy product financing, 3 = 216. Net borrowings (repayments) under vehicle and energy product financing, 4 = (212). Net borrowings (repayments) under vehicle and energy product financing, 5 = (107). Net cash flows from noncontrolling interests - Solar, 1 = (45). Net cash flows from noncontrolling interests - Solar, 2 = (76). Net cash flows from noncontrolling interests - Solar, 3 = (131). Net cash flows from noncontrolling interests - Solar, 4 = (43). Net cash flows from noncontrolling interests - Solar, 5 = (26). Other, 1 = 254. Other, 2 = 152. Other, 3 =
+
+=== Chunk 77 ===
+Text (232 tokens):
+251. Other, 4 = 197. Other, 5 = 340. Net cash provided by financing activities, 1 = 2,263. Net cash provided by financing activities, 2 = 887. Net cash provided by financing activities, 3 = 196. Net cash provided by financing activities, 4 = 2,540. Net cash provided by financing activities, 5 = 132. Effect of exchange rate changes on cash and cash equivalents and restricted cash, 1 = (98). Effect of exchange rate changes on cash and cash equivalents and restricted cash, 2 = 146. Effect of exchange rate changes on cash and cash equivalents and restricted cash, 3 = (79). Effect of exchange rate changes on cash and cash equivalents and restricted cash, 4 = (37). Effect of exchange rate changes on cash and cash equivalents and restricted cash, 5 = 108. Net increase (decrease) in cash and cash equivalents and restricted cash, 1 = 711. Net increase (decrease) in cash and cash equivalents and restricted cash, 2 = 599. Net increase (decrease) in cash and cash equivalents and restricted cash, 3 =
+Serialized (252 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+251. Other, 4 = 197. Other, 5 = 340. Net cash provided by financing activities, 1 = 2,263. Net cash provided by financing activities, 2 = 887. Net cash provided by financing activities, 3 = 196. Net cash provided by financing activities, 4 = 2,540. Net cash provided by financing activities, 5 = 132. Effect of exchange rate changes on cash and cash equivalents and restricted cash, 1 = (98). Effect of exchange rate changes on cash and cash equivalents and restricted cash, 2 = 146. Effect of exchange rate changes on cash and cash equivalents and restricted cash, 3 = (79). Effect of exchange rate changes on cash and cash equivalents and restricted cash, 4 = (37). Effect of exchange rate changes on cash and cash equivalents and restricted cash, 5 = 108. Net increase (decrease) in cash and cash equivalents and restricted cash, 1 = 711. Net increase (decrease) in cash and cash equivalents and restricted cash, 2 = 599. Net increase (decrease) in cash and cash equivalents and restricted cash, 3 =
+
+=== Chunk 78 ===
+Text (235 tokens):
+(4,725). Net increase (decrease) in cash and cash equivalents and restricted cash, 4 = 2,890. Net increase (decrease) in cash and cash equivalents and restricted cash, 5 = 3,620. Cash and cash equivalents and restricted cash at beginning of period, 1 = 15,879. Cash and cash equivalents and restricted cash at beginning of period, 2 = 16,590. Cash and cash equivalents and restricted cash at beginning of period, 3 = 17,189. Cash and cash equivalents and restricted cash at beginning of period, 4 = 12,464. Cash and cash equivalents and restricted cash at beginning of period, 5 = 15,354. Cash and cash equivalents and restricted cash at end of period, 1 = 16,590. Cash and cash equivalents and restricted cash at end of period, 2 = 17,189. Cash and cash equivalents and restricted cash at end of period, 3 = 12,464. Cash and cash equivalents and restricted cash at end of period, 4 = 15,354. Cash and cash equivalents and restricted cash at end of
+Serialized (255 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+(4,725). Net increase (decrease) in cash and cash equivalents and restricted cash, 4 = 2,890. Net increase (decrease) in cash and cash equivalents and restricted cash, 5 = 3,620. Cash and cash equivalents and restricted cash at beginning of period, 1 = 15,879. Cash and cash equivalents and restricted cash at beginning of period, 2 = 16,590. Cash and cash equivalents and restricted cash at beginning of period, 3 = 17,189. Cash and cash equivalents and restricted cash at beginning of period, 4 = 12,464. Cash and cash equivalents and restricted cash at beginning of period, 5 = 15,354. Cash and cash equivalents and restricted cash at end of period, 1 = 16,590. Cash and cash equivalents and restricted cash at end of period, 2 = 17,189. Cash and cash equivalents and restricted cash at end of period, 3 = 12,464. Cash and cash equivalents and restricted cash at end of period, 4 = 15,354. Cash and cash equivalents and restricted cash at end of
+
+=== Chunk 79 ===
+Text (8 tokens):
+period, 5 = 18,974
+Serialized (28 tokens):
+S T A T E M E N T  O F  C A S H  F L O W S
+period, 5 = 18,974
+
+=== Chunk 80 ===
+Text (5 tokens):
+(Unaudited)
+Serialized (55 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(Unaudited)
+
+=== Chunk 81 ===
+Text (205 tokens):
+In millions of USD or shares as applicable, except per share data, 1 = Q3-2023. In millions of USD or shares as applicable, except per share data, 2 = Q4-2023. In millions of USD or shares as applicable, except per share data, 3 = Q1-2024. In millions of USD or shares as applicable, except per share data, 4 = Q2-2024. In millions of USD or shares as applicable, except per share data, 5 = Q3-2024. Net income attributable to common stockholders (GAAP), 1 = 1,853. Net income attributable to common stockholders (GAAP), 2 = 7,928. Net income attributable to common stockholders (GAAP), 3 = 1,129. Net income attributable to common stockholders (GAAP), 4 = 1,478. Net income attributable to common
+Serialized (255 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+In millions of USD or shares as applicable, except per share data, 1 = Q3-2023. In millions of USD or shares as applicable, except per share data, 2 = Q4-2023. In millions of USD or shares as applicable, except per share data, 3 = Q1-2024. In millions of USD or shares as applicable, except per share data, 4 = Q2-2024. In millions of USD or shares as applicable, except per share data, 5 = Q3-2024. Net income attributable to common stockholders (GAAP), 1 = 1,853. Net income attributable to common stockholders (GAAP), 2 = 7,928. Net income attributable to common stockholders (GAAP), 3 = 1,129. Net income attributable to common stockholders (GAAP), 4 = 1,478. Net income attributable to common
+
+=== Chunk 82 ===
+Text (206 tokens):
+stockholders (GAAP), 5 = 2,167. Stock-based compensation expense, net of tax, 1 = 465. Stock-based compensation expense, net of tax, 2 = 484. Stock-based compensation expense, net of tax, 3 = 407. Stock-based compensation expense, net of tax, 4 = 334. Stock-based compensation expense, net of tax, 5 = 338. Release of valuation allowance on deferred tax assets, 1 = -. Release of valuation allowance on deferred tax assets, 2 = (5,927). Release of valuation allowance on deferred tax assets, 3 = -. Release of valuation allowance on deferred tax assets, 4 = -. Release of valuation allowance on deferred tax assets, 5 = -. Net income attributable to common stockholders (non-GAAP), 1 = 2,318. Net income attributable to common stockholders (non-GAAP), 2
+Serialized (256 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+stockholders (GAAP), 5 = 2,167. Stock-based compensation expense, net of tax, 1 = 465. Stock-based compensation expense, net of tax, 2 = 484. Stock-based compensation expense, net of tax, 3 = 407. Stock-based compensation expense, net of tax, 4 = 334. Stock-based compensation expense, net of tax, 5 = 338. Release of valuation allowance on deferred tax assets, 1 = -. Release of valuation allowance on deferred tax assets, 2 = (5,927). Release of valuation allowance on deferred tax assets, 3 = -. Release of valuation allowance on deferred tax assets, 4 = -. Release of valuation allowance on deferred tax assets, 5 = -. Net income attributable to common stockholders (non-GAAP), 1 = 2,318. Net income attributable to common stockholders (non-GAAP), 2
+
+=== Chunk 83 ===
+Text (204 tokens):
+= 2,485. Net income attributable to common stockholders (non-GAAP), 3 = 1,536. Net income attributable to common stockholders (non-GAAP), 4 = 1,812. Net income attributable to common stockholders (non-GAAP), 5 = 2,505. Less: Buy-outs of noncontrolling interests, 1 = 2. Less: Buy-outs of noncontrolling interests, 2 = 1. Less: Buy-outs of noncontrolling interests, 3 = (42). Less: Buy-outs of noncontrolling interests, 4 = -. Less: Buy-outs of noncontrolling interests, 5 = -. Net income used in computing diluted EPS attributable to common stockholders (non-GAAP), 1 = 2,316. Net income used in computing diluted EPS attributable to common stockholders
+Serialized (254 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+= 2,485. Net income attributable to common stockholders (non-GAAP), 3 = 1,536. Net income attributable to common stockholders (non-GAAP), 4 = 1,812. Net income attributable to common stockholders (non-GAAP), 5 = 2,505. Less: Buy-outs of noncontrolling interests, 1 = 2. Less: Buy-outs of noncontrolling interests, 2 = 1. Less: Buy-outs of noncontrolling interests, 3 = (42). Less: Buy-outs of noncontrolling interests, 4 = -. Less: Buy-outs of noncontrolling interests, 5 = -. Net income used in computing diluted EPS attributable to common stockholders (non-GAAP), 1 = 2,316. Net income used in computing diluted EPS attributable to common stockholders
+
+=== Chunk 84 ===
+Text (205 tokens):
+(non-GAAP), 2 = 2,484. Net income used in computing diluted EPS attributable to common stockholders (non-GAAP), 3 = 1,578. Net income used in computing diluted EPS attributable to common stockholders (non-GAAP), 4 = 1,812. Net income used in computing diluted EPS attributable to common stockholders (non-GAAP), 5 = 2,505. EPS attributable to common stockholders, diluted (GAAP), 1 = 0.53. EPS attributable to common stockholders, diluted (GAAP), 2 = 2.27. EPS attributable to common stockholders, diluted (GAAP), 3 = 0.34. EPS attributable to common stockholders, diluted (GAAP), 4 = 0.42. EPS attributable to common stockholders,
+Serialized (255 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(non-GAAP), 2 = 2,484. Net income used in computing diluted EPS attributable to common stockholders (non-GAAP), 3 = 1,578. Net income used in computing diluted EPS attributable to common stockholders (non-GAAP), 4 = 1,812. Net income used in computing diluted EPS attributable to common stockholders (non-GAAP), 5 = 2,505. EPS attributable to common stockholders, diluted (GAAP), 1 = 0.53. EPS attributable to common stockholders, diluted (GAAP), 2 = 2.27. EPS attributable to common stockholders, diluted (GAAP), 3 = 0.34. EPS attributable to common stockholders, diluted (GAAP), 4 = 0.42. EPS attributable to common stockholders,
+
+=== Chunk 85 ===
+Text (204 tokens):
+diluted (GAAP), 5 = 0.62. Stock-based compensation expense per share, net of tax, 1 = 0.13. Stock-based compensation expense per share, net of tax, 2 = 0.14. Stock-based compensation expense per share, net of tax, 3 = 0.11. Stock-based compensation expense per share, net of tax, 4 = 0.10. Stock-based compensation expense per share, net of tax, 5 = 0.10. Release of valuation allowance on deferred tax assets per share, 1 = -. Release of valuation allowance on deferred tax assets per share, 2 = (1.70). Release of valuation allowance on deferred tax assets per share, 3 = -. Release of valuation allowance on deferred tax assets per share, 4 = -. Release of valuation allowance on deferred tax assets per share, 5 = -. EPS attributable to common stockholders, diluted
+Serialized (254 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+diluted (GAAP), 5 = 0.62. Stock-based compensation expense per share, net of tax, 1 = 0.13. Stock-based compensation expense per share, net of tax, 2 = 0.14. Stock-based compensation expense per share, net of tax, 3 = 0.11. Stock-based compensation expense per share, net of tax, 4 = 0.10. Stock-based compensation expense per share, net of tax, 5 = 0.10. Release of valuation allowance on deferred tax assets per share, 1 = -. Release of valuation allowance on deferred tax assets per share, 2 = (1.70). Release of valuation allowance on deferred tax assets per share, 3 = -. Release of valuation allowance on deferred tax assets per share, 4 = -. Release of valuation allowance on deferred tax assets per share, 5 = -. EPS attributable to common stockholders, diluted
+
+=== Chunk 86 ===
+Text (206 tokens):
+(non-GAAP), 1 = 0.66. EPS attributable to common stockholders, diluted (non-GAAP), 2 = 0.71. EPS attributable to common stockholders, diluted (non-GAAP), 3 = 0.45. EPS attributable to common stockholders, diluted (non-GAAP), 4 = 0.52. EPS attributable to common stockholders, diluted (non-GAAP), 5 = 0.72. Shares used in EPS calculation, diluted (GAAP and non-GAAP), 1 = 3,493. Shares used in EPS calculation, diluted (GAAP and non-GAAP), 2 = 3,492. Shares used in EPS calculation, diluted (GAAP and non-GAAP), 3 = 3,484. Shares used in EPS calculation, diluted (GAAP and non-GAAP),
+Serialized (256 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(non-GAAP), 1 = 0.66. EPS attributable to common stockholders, diluted (non-GAAP), 2 = 0.71. EPS attributable to common stockholders, diluted (non-GAAP), 3 = 0.45. EPS attributable to common stockholders, diluted (non-GAAP), 4 = 0.52. EPS attributable to common stockholders, diluted (non-GAAP), 5 = 0.72. Shares used in EPS calculation, diluted (GAAP and non-GAAP), 1 = 3,493. Shares used in EPS calculation, diluted (GAAP and non-GAAP), 2 = 3,492. Shares used in EPS calculation, diluted (GAAP and non-GAAP), 3 = 3,484. Shares used in EPS calculation, diluted (GAAP and non-GAAP),
+
+=== Chunk 87 ===
+Text (206 tokens):
+4 = 3,481. Shares used in EPS calculation, diluted (GAAP and non-GAAP), 5 = 3,497. Net income attributable to common stockholders (GAAP), 1 = 1,853. Net income attributable to common stockholders (GAAP), 2 = 7,928. Net income attributable to common stockholders (GAAP), 3 = 1,129. Net income attributable to common stockholders (GAAP), 4 = 1,478. Net income attributable to common stockholders (GAAP), 5 = 2,167. Interest expense, 1 = 38. Interest expense, 2 = 61. Interest expense, 3 = 76. Interest expense, 4 = 86. Interest expense, 5 = 92. Provision for (benefit from) income taxes, 1 = 167. Provision for (benefit from) income taxes, 2 = (5,752).
+Serialized (256 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+4 = 3,481. Shares used in EPS calculation, diluted (GAAP and non-GAAP), 5 = 3,497. Net income attributable to common stockholders (GAAP), 1 = 1,853. Net income attributable to common stockholders (GAAP), 2 = 7,928. Net income attributable to common stockholders (GAAP), 3 = 1,129. Net income attributable to common stockholders (GAAP), 4 = 1,478. Net income attributable to common stockholders (GAAP), 5 = 2,167. Interest expense, 1 = 38. Interest expense, 2 = 61. Interest expense, 3 = 76. Interest expense, 4 = 86. Interest expense, 5 = 92. Provision for (benefit from) income taxes, 1 = 167. Provision for (benefit from) income taxes, 2 = (5,752).
+
+=== Chunk 88 ===
+Text (200 tokens):
+Provision for (benefit from) income taxes, 3 = 409. Provision for (benefit from) income taxes, 4 = 393. Provision for (benefit from) income taxes, 5 = 601. Depreciation, amortization and impairment, 1 = 1,235. Depreciation, amortization and impairment, 2 = 1,232. Depreciation, amortization and impairment, 3 = 1,246. Depreciation, amortization and impairment, 4 = 1,278. Depreciation, amortization and impairment, 5 = 1,348. Stock-based compensation expense, 1 = 465. Stock-based compensation expense, 2 = 484. Stock-based compensation expense, 3 = 524. Stock-based compensation expense, 4 = 439. Stock-based compensation expense, 5 = 457. Adjusted EBITDA (non-GAAP), 1 = 3,758. Adjusted EBITDA
+Serialized (250 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+Provision for (benefit from) income taxes, 3 = 409. Provision for (benefit from) income taxes, 4 = 393. Provision for (benefit from) income taxes, 5 = 601. Depreciation, amortization and impairment, 1 = 1,235. Depreciation, amortization and impairment, 2 = 1,232. Depreciation, amortization and impairment, 3 = 1,246. Depreciation, amortization and impairment, 4 = 1,278. Depreciation, amortization and impairment, 5 = 1,348. Stock-based compensation expense, 1 = 465. Stock-based compensation expense, 2 = 484. Stock-based compensation expense, 3 = 524. Stock-based compensation expense, 4 = 439. Stock-based compensation expense, 5 = 457. Adjusted EBITDA (non-GAAP), 1 = 3,758. Adjusted EBITDA
+
+=== Chunk 89 ===
+Text (203 tokens):
+(non-GAAP), 2 = 3,953. Adjusted EBITDA (non-GAAP), 3 = 3,384. Adjusted EBITDA (non-GAAP), 4 = 3,674. Adjusted EBITDA (non-GAAP), 5 = 4,665. Total revenues, 1 = 23,350. Total revenues, 2 = 25,167. Total revenues, 3 = 21,301. Total revenues, 4 = 25,500. Total revenues, 5 = 25,182. Adjusted EBITDA margin (non-GAAP), 1 = 16.1%. Adjusted EBITDA margin (non-GAAP), 2 = 15.7%. Adjusted EBITDA margin (non-GAAP), 3 = 15.9%. Adjusted EBITDA margin (non-GAAP), 4 = 14.4%. Adjusted EBITDA margin (non-GAAP), 5 =
+Serialized (253 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(non-GAAP), 2 = 3,953. Adjusted EBITDA (non-GAAP), 3 = 3,384. Adjusted EBITDA (non-GAAP), 4 = 3,674. Adjusted EBITDA (non-GAAP), 5 = 4,665. Total revenues, 1 = 23,350. Total revenues, 2 = 25,167. Total revenues, 3 = 21,301. Total revenues, 4 = 25,500. Total revenues, 5 = 25,182. Adjusted EBITDA margin (non-GAAP), 1 = 16.1%. Adjusted EBITDA margin (non-GAAP), 2 = 15.7%. Adjusted EBITDA margin (non-GAAP), 3 = 15.9%. Adjusted EBITDA margin (non-GAAP), 4 = 14.4%. Adjusted EBITDA margin (non-GAAP), 5 =
+
+=== Chunk 90 ===
+Text (9 tokens):
+18.5%
+(Unaudited)
+Serialized (59 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+18.5%
+(Unaudited)
+
+=== Chunk 91 ===
+Text (203 tokens):
+In millions of USD Net cash provided by operating activities (GAAP), 1 = 1,641. In millions of USD Net cash provided by operating activities (GAAP), 2 = 2,124. In millions of USD Net cash provided by operating activities (GAAP), 3 = 3,147. In millions of USD Net cash provided by operating activities (GAAP), 4 = 4,585. In millions of USD Net cash provided by operating activities (GAAP), 5 = 3,995. In millions of USD Net cash provided by operating activities (GAAP), 6 = 2,351. In millions of USD Net cash provided by operating activities (GAAP), 7 = 5,100. In millions of USD Net cash provided by operating activities (GAAP), 8 = 3,278. In millions of USD Net cash provided by operating activities (GAAP), 9 = 2,513. In millions of USD Net cash provided by operating activities
+Serialized (253 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+In millions of USD Net cash provided by operating activities (GAAP), 1 = 1,641. In millions of USD Net cash provided by operating activities (GAAP), 2 = 2,124. In millions of USD Net cash provided by operating activities (GAAP), 3 = 3,147. In millions of USD Net cash provided by operating activities (GAAP), 4 = 4,585. In millions of USD Net cash provided by operating activities (GAAP), 5 = 3,995. In millions of USD Net cash provided by operating activities (GAAP), 6 = 2,351. In millions of USD Net cash provided by operating activities (GAAP), 7 = 5,100. In millions of USD Net cash provided by operating activities (GAAP), 8 = 3,278. In millions of USD Net cash provided by operating activities (GAAP), 9 = 2,513. In millions of USD Net cash provided by operating activities
+
+=== Chunk 92 ===
+Text (203 tokens):
+(GAAP), 10 = 3,065. In millions of USD Net cash provided by operating activities (GAAP), 11 = 3,308. In millions of USD Net cash provided by operating activities (GAAP), 12 = 4,370. In millions of USD Net cash provided by operating activities (GAAP), 13 = 242. In millions of USD Net cash provided by operating activities (GAAP), 14 = 3,612. In millions of USD Net cash provided by operating activities (GAAP), 15 = 6,255. Capital expenditures, 1 = (1,348). Capital expenditures, 2 = (1,505). Capital expenditures, 3 = (1,819). Capital expenditures, 4 = (1,810). Capital expenditures, 5 = (1,767). Capital expenditures, 6 = (1,730). Capital expenditures, 7 = (1,803). Capital expenditures, 8 =
+Serialized (253 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(GAAP), 10 = 3,065. In millions of USD Net cash provided by operating activities (GAAP), 11 = 3,308. In millions of USD Net cash provided by operating activities (GAAP), 12 = 4,370. In millions of USD Net cash provided by operating activities (GAAP), 13 = 242. In millions of USD Net cash provided by operating activities (GAAP), 14 = 3,612. In millions of USD Net cash provided by operating activities (GAAP), 15 = 6,255. Capital expenditures, 1 = (1,348). Capital expenditures, 2 = (1,505). Capital expenditures, 3 = (1,819). Capital expenditures, 4 = (1,810). Capital expenditures, 5 = (1,767). Capital expenditures, 6 = (1,730). Capital expenditures, 7 = (1,803). Capital expenditures, 8 =
+
+=== Chunk 93 ===
+Text (201 tokens):
+(1,858). Capital expenditures, 9 = (2,072). Capital expenditures, 10 = (2,060). Capital expenditures, 11 = (2,460). Capital expenditures, 12 = . Capital expenditures, 13 = (2,773). Capital expenditures, 14 = (2,270). Capital expenditures, 15 = (3,513). Free cash flow (non-GAAP), 1 = 293. Free cash flow (non-GAAP), 2 = 619. Free cash flow (non-GAAP), 3 = . Free cash flow (non-GAAP), 4 = . Free cash flow (non-GAAP), 5 = . Free cash flow (non-GAAP), 6 = 621. Free cash flow (non-GAAP), 7 = 3,297. Free cash flow (non-GAAP), 8 = 1,420. Free cash flow
+Serialized (251 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(1,858). Capital expenditures, 9 = (2,072). Capital expenditures, 10 = (2,060). Capital expenditures, 11 = (2,460). Capital expenditures, 12 = . Capital expenditures, 13 = (2,773). Capital expenditures, 14 = (2,270). Capital expenditures, 15 = (3,513). Free cash flow (non-GAAP), 1 = 293. Free cash flow (non-GAAP), 2 = 619. Free cash flow (non-GAAP), 3 = . Free cash flow (non-GAAP), 4 = . Free cash flow (non-GAAP), 5 = . Free cash flow (non-GAAP), 6 = 621. Free cash flow (non-GAAP), 7 = 3,297. Free cash flow (non-GAAP), 8 = 1,420. Free cash flow
+
+=== Chunk 94 ===
+Text (206 tokens):
+(non-GAAP), 9 = 441. Free cash flow (non-GAAP), 10 = . Free cash flow (non-GAAP), 11 = . Free cash flow (non-GAAP), 12 = (2,306). Free cash flow (non-GAAP), 13 = . Free cash flow (non-GAAP), 14 = . Free cash flow (non-GAAP), 15 = . , 1 = . , 2 = . , 3 = 1,328. , 4 = 2,775. , 5 = 2,228. , 6 = . , 7 = . , 8 = . , 9 = . , 10 = 1,005. , 11 = 848. , 12 = 2,064. , 13 = (2,531). , 14 = 1,342. , 15 = 2,742. In millions of USD, 1 = . In millions of USD, 2 = . In millions
+Serialized (256 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(non-GAAP), 9 = 441. Free cash flow (non-GAAP), 10 = . Free cash flow (non-GAAP), 11 = . Free cash flow (non-GAAP), 12 = (2,306). Free cash flow (non-GAAP), 13 = . Free cash flow (non-GAAP), 14 = . Free cash flow (non-GAAP), 15 = . , 1 = . , 2 = . , 3 = 1,328. , 4 = 2,775. , 5 = 2,228. , 6 = . , 7 = . , 8 = . , 9 = . , 10 = 1,005. , 11 = 848. , 12 = 2,064. , 13 = (2,531). , 14 = 1,342. , 15 = 2,742. In millions of USD, 1 = . In millions of USD, 2 = . In millions
+
+=== Chunk 95 ===
+Text (203 tokens):
+of USD, 3 = . In millions of USD, 4 = . In millions of USD, 5 = . In millions of USD, 6 = . In millions of USD, 7 = . In millions of USD, 8 = . In millions of USD, 9 = . In millions of USD, 10 = 1Q-2021 2Q-2021 3Q-2021 4Q-2021 1Q-2022 2Q-2022 3Q-2022 4Q-2022 1Q-2023 2Q-2023 3Q-2023 4Q-2023 1Q-2024 2Q-2024 3Q-2024. In millions of USD, 11 = . In millions of USD, 12 = . In millions of USD, 13 = . In millions of USD, 14 = . In millions of USD, 15 = . Net income attributable to common stockholders (GAAP), 1 = 438. Net income attributable to common stockholders
+Serialized (253 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+of USD, 3 = . In millions of USD, 4 = . In millions of USD, 5 = . In millions of USD, 6 = . In millions of USD, 7 = . In millions of USD, 8 = . In millions of USD, 9 = . In millions of USD, 10 = 1Q-2021 2Q-2021 3Q-2021 4Q-2021 1Q-2022 2Q-2022 3Q-2022 4Q-2022 1Q-2023 2Q-2023 3Q-2023 4Q-2023 1Q-2024 2Q-2024 3Q-2024. In millions of USD, 11 = . In millions of USD, 12 = . In millions of USD, 13 = . In millions of USD, 14 = . In millions of USD, 15 = . Net income attributable to common stockholders (GAAP), 1 = 438. Net income attributable to common stockholders
+
+=== Chunk 96 ===
+Text (206 tokens):
+(GAAP), 2 = 1,142. Net income attributable to common stockholders (GAAP), 3 = 1,618. Net income attributable to common stockholders (GAAP), 4 = 2,321. Net income attributable to common stockholders (GAAP), 5 = 3,318. Net income attributable to common stockholders (GAAP), 6 = 2,259. Net income attributable to common stockholders (GAAP), 7 = 3,292. Net income attributable to common stockholders (GAAP), 8 = 3,687. Net income attributable to common stockholders (GAAP), 9 = 2,513. Net income attributable to common stockholders (GAAP), 10 = 2,703. Net income attributable to common stockholders (GAAP), 11 = 1,853. Net
+Serialized (256 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(GAAP), 2 = 1,142. Net income attributable to common stockholders (GAAP), 3 = 1,618. Net income attributable to common stockholders (GAAP), 4 = 2,321. Net income attributable to common stockholders (GAAP), 5 = 3,318. Net income attributable to common stockholders (GAAP), 6 = 2,259. Net income attributable to common stockholders (GAAP), 7 = 3,292. Net income attributable to common stockholders (GAAP), 8 = 3,687. Net income attributable to common stockholders (GAAP), 9 = 2,513. Net income attributable to common stockholders (GAAP), 10 = 2,703. Net income attributable to common stockholders (GAAP), 11 = 1,853. Net
+
+=== Chunk 97 ===
+Text (99 tokens):
+income attributable to common stockholders (GAAP), 12 = 7,928. Net income attributable to common stockholders (GAAP), 13 = 1,129. Net income attributable to common stockholders (GAAP), 14 = 1,478. Net income attributable to common stockholders (GAAP), 15 = 2,167. Interest expense Provision for (benefit from) income taxes, 1 = 99
+Serialized (149 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+income attributable to common stockholders (GAAP), 12 = 7,928. Net income attributable to common stockholders (GAAP), 13 = 1,129. Net income attributable to common stockholders (GAAP), 14 = 1,478. Net income attributable to common stockholders (GAAP), 15 = 2,167. Interest expense Provision for (benefit from) income taxes, 1 = 99
+
+=== Chunk 98 ===
+Text (177 tokens):
+69. Interest expense Provision for (benefit from) income taxes, 2 = 75  115. Interest expense Provision for (benefit from) income taxes, 3 = 126  223. Interest expense Provision for (benefit from) income taxes, 4 = 71  292. Interest expense Provision for (benefit from) income taxes, 5 = 61  346. Interest expense Provision for (benefit from) income taxes, 6 = 44  205. Interest expense Provision for (benefit from) income taxes, 7 = 53  305. Interest expense Provision for (benefit from) income taxes, 8 = 33  276. Interest expense Provision for (benefit from) income taxes, 9 = 29  261. Interest expense Provision for (benefit from) income taxes, 10 = 28  323. Interest expense Provision for (benefit from) income taxes, 11 = 38  167. Interest expense Provision for (benefit from) income taxes, 12 = 61
+Serialized (227 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+69. Interest expense Provision for (benefit from) income taxes, 2 = 75  115. Interest expense Provision for (benefit from) income taxes, 3 = 126  223. Interest expense Provision for (benefit from) income taxes, 4 = 71  292. Interest expense Provision for (benefit from) income taxes, 5 = 61  346. Interest expense Provision for (benefit from) income taxes, 6 = 44  205. Interest expense Provision for (benefit from) income taxes, 7 = 53  305. Interest expense Provision for (benefit from) income taxes, 8 = 33  276. Interest expense Provision for (benefit from) income taxes, 9 = 29  261. Interest expense Provision for (benefit from) income taxes, 10 = 28  323. Interest expense Provision for (benefit from) income taxes, 11 = 38  167. Interest expense Provision for (benefit from) income taxes, 12 = 61
+
+=== Chunk 99 ===
+Text (206 tokens):
+(5,752). Interest expense Provision for (benefit from) income taxes, 13 = 76 409. Interest expense Provision for (benefit from) income taxes, 14 = 86 393. Interest expense Provision for (benefit from) income taxes, 15 = 92 601. Depreciation, amortization and impairment, 1 = 621. Depreciation, amortization and impairment, 2 = 681. Depreciation, amortization and impairment, 3 = 761. Depreciation, amortization and impairment, 4 = 848. Depreciation, amortization and impairment, 5 = 880. Depreciation, amortization and impairment, 6 = 922. Depreciation, amortization and impairment, 7 = 956. Depreciation, amortization and impairment, 8 = 989. Depreciation, amortization and impairment, 9 = 1,046. Depreciation, amortization and impairment, 10 =
+Serialized (256 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+(5,752). Interest expense Provision for (benefit from) income taxes, 13 = 76 409. Interest expense Provision for (benefit from) income taxes, 14 = 86 393. Interest expense Provision for (benefit from) income taxes, 15 = 92 601. Depreciation, amortization and impairment, 1 = 621. Depreciation, amortization and impairment, 2 = 681. Depreciation, amortization and impairment, 3 = 761. Depreciation, amortization and impairment, 4 = 848. Depreciation, amortization and impairment, 5 = 880. Depreciation, amortization and impairment, 6 = 922. Depreciation, amortization and impairment, 7 = 956. Depreciation, amortization and impairment, 8 = 989. Depreciation, amortization and impairment, 9 = 1,046. Depreciation, amortization and impairment, 10 =
+
+=== Chunk 100 ===
+Text (205 tokens):
+1,154. Depreciation, amortization and impairment, 11 = 1,235. Depreciation, amortization and impairment, 12 = 1,232. Depreciation, amortization and impairment, 13 = 1,246. Depreciation, amortization and impairment, 14 = 1,278. Depreciation, amortization and impairment, 15 = 1,348. Stock-based compensation expense, 1 = 614. Stock-based compensation expense, 2 = 474. Stock-based compensation expense, 3 = 475. Stock-based compensation expense, 4 = 558. Stock-based compensation expense, 5 = 418. Stock-based compensation expense, 6 = 361. Stock-based compensation expense, 7 = 362. Stock-based compensation expense, 8 = 419. Stock-based compensation expense, 9 = 418. Stock-based compensation expense, 10 = 445. Stock-based compensation expense, 11 = 465.
+Serialized (255 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+1,154. Depreciation, amortization and impairment, 11 = 1,235. Depreciation, amortization and impairment, 12 = 1,232. Depreciation, amortization and impairment, 13 = 1,246. Depreciation, amortization and impairment, 14 = 1,278. Depreciation, amortization and impairment, 15 = 1,348. Stock-based compensation expense, 1 = 614. Stock-based compensation expense, 2 = 474. Stock-based compensation expense, 3 = 475. Stock-based compensation expense, 4 = 558. Stock-based compensation expense, 5 = 418. Stock-based compensation expense, 6 = 361. Stock-based compensation expense, 7 = 362. Stock-based compensation expense, 8 = 419. Stock-based compensation expense, 9 = 418. Stock-based compensation expense, 10 = 445. Stock-based compensation expense, 11 = 465.
+
+=== Chunk 101 ===
+Text (204 tokens):
+Stock-based compensation expense, 12 = 484. Stock-based compensation expense, 13 = 524. Stock-based compensation expense, 14 = 439. Stock-based compensation expense, 15 = 457. Adjusted EBITDA (non-GAAP), 1 = 1,841. Adjusted EBITDA (non-GAAP), 2 = 2,487. Adjusted EBITDA (non-GAAP), 3 = 3,203. Adjusted EBITDA (non-GAAP), 4 = 4,090. Adjusted EBITDA (non-GAAP), 5 = 5,023. Adjusted EBITDA (non-GAAP), 6 = 3,791. Adjusted EBITDA (non-GAAP), 7 = 4,968. Adjusted EBITDA (non-GAAP), 8 = 5,404. Adjusted EBITDA (non-GAAP), 9 = 4,267. Adjusted
+Serialized (254 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+Stock-based compensation expense, 12 = 484. Stock-based compensation expense, 13 = 524. Stock-based compensation expense, 14 = 439. Stock-based compensation expense, 15 = 457. Adjusted EBITDA (non-GAAP), 1 = 1,841. Adjusted EBITDA (non-GAAP), 2 = 2,487. Adjusted EBITDA (non-GAAP), 3 = 3,203. Adjusted EBITDA (non-GAAP), 4 = 4,090. Adjusted EBITDA (non-GAAP), 5 = 5,023. Adjusted EBITDA (non-GAAP), 6 = 3,791. Adjusted EBITDA (non-GAAP), 7 = 4,968. Adjusted EBITDA (non-GAAP), 8 = 5,404. Adjusted EBITDA (non-GAAP), 9 = 4,267. Adjusted
+
+=== Chunk 102 ===
+Text (205 tokens):
+EBITDA (non-GAAP), 10 = 4,653. Adjusted EBITDA (non-GAAP), 11 = 3,758. Adjusted EBITDA (non-GAAP), 12 = 3,953. Adjusted EBITDA (non-GAAP), 13 = 3,384. Adjusted EBITDA (non-GAAP), 14 = 3,674. Adjusted EBITDA (non-GAAP), 15 = 4,665
+In millions of USD
+4Q-2021 1Q-2022 2Q-2022 3Q-2022 4Q-2022 1Q-2023 2Q-2023 3Q-2023 4Q-2023 1Q-2024 2Q-2024 3Q-2024
+Net cash provided by operating activities - TTM (GAAP)
+11,497
+13,851
+14,078
+16,031
+14,724
+13,242
+Serialized (255 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+EBITDA (non-GAAP), 10 = 4,653. Adjusted EBITDA (non-GAAP), 11 = 3,758. Adjusted EBITDA (non-GAAP), 12 = 3,953. Adjusted EBITDA (non-GAAP), 13 = 3,384. Adjusted EBITDA (non-GAAP), 14 = 3,674. Adjusted EBITDA (non-GAAP), 15 = 4,665
+In millions of USD
+4Q-2021 1Q-2022 2Q-2022 3Q-2022 4Q-2022 1Q-2023 2Q-2023 3Q-2023 4Q-2023 1Q-2024 2Q-2024 3Q-2024
+Net cash provided by operating activities - TTM (GAAP)
+11,497
+13,851
+14,078
+16,031
+14,724
+13,242
+
+=== Chunk 103 ===
+Text (157 tokens):
+13,956
+12,164
+13,256
+10,985
+11,532
+14,479
+Capital expenditures - TTM
+(6,482)
+(6,901)
+(7,126)
+(7,110)
+(7,158)
+(7,463)
+(7,793)
+(8,450)
+(8,898)
+(9,599)
+(9,809)
+(10,862)
+Free cash flow - TTM (non-GAAP)
+5,015
+6,950
+6,952
+8,921
+7,566
+5,779
+6,163
+3,714
+4,358
+1,386
+1,723
+3,617
+In millions of USD
+Serialized (207 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+13,956
+12,164
+13,256
+10,985
+11,532
+14,479
+Capital expenditures - TTM
+(6,482)
+(6,901)
+(7,126)
+(7,110)
+(7,158)
+(7,463)
+(7,793)
+(8,450)
+(8,898)
+(9,599)
+(9,809)
+(10,862)
+Free cash flow - TTM (non-GAAP)
+5,015
+6,950
+6,952
+8,921
+7,566
+5,779
+6,163
+3,714
+4,358
+1,386
+1,723
+3,617
+In millions of USD
+
+=== Chunk 104 ===
+Text (199 tokens):
+4Q-2021 1Q-2022 2Q-2022 3Q-2022 4Q-2022 1Q-2023 2Q-2023 3Q-2023 4Q-2023 1Q-2024 2Q-2024 3Q-2024
+Net income attributable to common stockholders - TTM (GAAP)
+5,519
+8,399
+9,516
+11,190
+12,556
+11,751
+12,195
+10,756
+14,997
+13,613
+12,388
+12,702
+Interest expense - TTM
+371
+333
+302
+229
+191
+159
+143
+128
+156
+203
+261
+315
+Provision for (benefit from) income taxes - TTM
+699
+976
+1,066
+1,148
+1,132
+1,047
+1,165
+1,027
+(5,001)
+(4,853)
+(4,783)
+(4,349)
+Serialized (249 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+4Q-2021 1Q-2022 2Q-2022 3Q-2022 4Q-2022 1Q-2023 2Q-2023 3Q-2023 4Q-2023 1Q-2024 2Q-2024 3Q-2024
+Net income attributable to common stockholders - TTM (GAAP)
+5,519
+8,399
+9,516
+11,190
+12,556
+11,751
+12,195
+10,756
+14,997
+13,613
+12,388
+12,702
+Interest expense - TTM
+371
+333
+302
+229
+191
+159
+143
+128
+156
+203
+261
+315
+Provision for (benefit from) income taxes - TTM
+699
+976
+1,066
+1,148
+1,132
+1,047
+1,165
+1,027
+(5,001)
+(4,853)
+(4,783)
+(4,349)
+
+=== Chunk 105 ===
+Text (163 tokens):
+Depreciation, amortization and impairment - TTM
+2,911
+3,170
+3,411
+3,606
+3,747
+3,913
+4,145
+4,424
+4,667
+4,867
+4,991
+5,104
+Stock-based compensation expense - TTM
+2,121
+1,925
+1,812
+1,699
+1,560
+1,560
+1,644
+1,747
+1,812
+1,918
+1,912
+1,904
+Adjusted EBITDA - TTM (non-GAAP)
+11,621
+14,803
+16,107
+17,872
+19,186
+18,430
+19,292
+18,082
+16,631
+15,748
+14,769
+15,676
+Serialized (213 tokens):
+R E C O N C I L I A T I O N  O F  G A A P  T O  N O N - G A A P  F I N A N C I A L  I N F O R M A T I O N
+Depreciation, amortization and impairment - TTM
+2,911
+3,170
+3,411
+3,606
+3,747
+3,913
+4,145
+4,424
+4,667
+4,867
+4,991
+5,104
+Stock-based compensation expense - TTM
+2,121
+1,925
+1,812
+1,699
+1,560
+1,560
+1,644
+1,747
+1,812
+1,918
+1,912
+1,904
+Adjusted EBITDA - TTM (non-GAAP)
+11,621
+14,803
+16,107
+17,872
+19,186
+18,430
+19,292
+18,082
+16,631
+15,748
+14,769
+15,676
+
+=== Chunk 106 ===
+Text (55 tokens):
+Tesla will provide a live webcast of its third quarter 2024 financial results conference call beginning at 4:30 p.m. CT on October 23, 2024 at ir.tesla.com. This webcast will also be available for replay for approximately one year thereafter.
+Serialized (58 tokens):
+WEBCAST INFORMATION
+Tesla will provide a live webcast of its third quarter 2024 financial results conference call beginning at 4:30 p.m. CT on October 23, 2024 at ir.tesla.com. This webcast will also be available for replay for approximately one year thereafter.
+
+=== Chunk 107 ===
+Text (254 tokens):
+When used in this update, certain terms have the following meanings. Our vehicle deliveries include only vehicles that have been transferred to end customers with all paperwork correctly completed. Our energy product deployment volume includes both customer units when installed and equipment sales at time of delivery. "Adjusted EBITDA" is equal to (i) net income (loss) attributable to common stockholders before (ii)(a) interest expense, (b) provision for income taxes, (c) depreciation, amortization and impairment and (d) stock-based compensation expense. "Free cash flow" is operating cash flow less capital expenditures. Average cost per vehicle is cost of automotive sales divided by new vehicle deliveries (excluding operating leases). 'Days sales outstanding' is equal to (i) average accounts receivable, net for the period divided by (ii) total revenues and multiplied by (iii) the number of days in the period. 'Days payable outstanding' is equal to (i) average accounts payable for the period divided by (ii) total cost of revenues and multiplied by (iii) the number of days in the period. 'Days of supply' is calculated by dividing new car ending inventory by the relevant quarter's deliveries and
+Serialized (256 tokens):
+CERTAIN TERMS
+When used in this update, certain terms have the following meanings. Our vehicle deliveries include only vehicles that have been transferred to end customers with all paperwork correctly completed. Our energy product deployment volume includes both customer units when installed and equipment sales at time of delivery. "Adjusted EBITDA" is equal to (i) net income (loss) attributable to common stockholders before (ii)(a) interest expense, (b) provision for income taxes, (c) depreciation, amortization and impairment and (d) stock-based compensation expense. "Free cash flow" is operating cash flow less capital expenditures. Average cost per vehicle is cost of automotive sales divided by new vehicle deliveries (excluding operating leases). 'Days sales outstanding' is equal to (i) average accounts receivable, net for the period divided by (ii) total revenues and multiplied by (iii) the number of days in the period. 'Days payable outstanding' is equal to (i) average accounts payable for the period divided by (ii) total cost of revenues and multiplied by (iii) the number of days in the period. 'Days of supply' is calculated by dividing new car ending inventory by the relevant quarter's deliveries and
+
+=== Chunk 108 ===
+Text (29 tokens):
+using 75 trading days. Constant currency impacts are calculated by comparing actuals against current results converted into USD using average exchange rates from the prior period.
+Serialized (31 tokens):
+CERTAIN TERMS
+using 75 trading days. Constant currency impacts are calculated by comparing actuals against current results converted into USD using average exchange rates from the prior period.
+
+=== Chunk 109 ===
+Text (250 tokens):
+Consolidated financial information has been presented in accordance with GAAP as well as on a non-GAAP basis to supplement our consolidated financial results. Our non-GAAP financial measures include non-GAAP net income (loss) attributable to common stockholders, non-GAAP net income (loss) attributable to common stockholders on a diluted per share basis (calculated using weighted average shares for GAAP diluted net income (loss) attributable to common stockholders), Adjusted EBITDA, Adjusted EBITDA margin and free cash flow. These non-GAAP financial measures also facilitate management's internal comparisons to Tesla's historical performance as well as comparisons to the operating results of other companies. Management believes that it is useful to supplement its GAAP financial statements with this non-GAAP information because management uses such information internally for its operating, budgeting and financial planning purposes. Management also believes that presentation of the non-GAAP financial measures provides useful information to our investors regarding our financial condition and results of operations, so that investors can see through the eyes of Tesla management regarding important financial metrics that Tesla uses to run the business and allowing investors to better understand Tesla's performance.
+Serialized (256 tokens):
+NON-GAAP FINANCIAL INFORMATION
+Consolidated financial information has been presented in accordance with GAAP as well as on a non-GAAP basis to supplement our consolidated financial results. Our non-GAAP financial measures include non-GAAP net income (loss) attributable to common stockholders, non-GAAP net income (loss) attributable to common stockholders on a diluted per share basis (calculated using weighted average shares for GAAP diluted net income (loss) attributable to common stockholders), Adjusted EBITDA, Adjusted EBITDA margin and free cash flow. These non-GAAP financial measures also facilitate management's internal comparisons to Tesla's historical performance as well as comparisons to the operating results of other companies. Management believes that it is useful to supplement its GAAP financial statements with this non-GAAP information because management uses such information internally for its operating, budgeting and financial planning purposes. Management also believes that presentation of the non-GAAP financial measures provides useful information to our investors regarding our financial condition and results of operations, so that investors can see through the eyes of Tesla management regarding important financial metrics that Tesla uses to run the business and allowing investors to better understand Tesla's performance.
+
+=== Chunk 110 ===
+Text (59 tokens):
+Non-GAAP information is not prepared under a comprehensive set of accounting rules and therefore, should only be read in conjunction with financial information reported under U.S. GAAP when understanding Tesla's operating performance. A reconciliation between GAAP and non-GAAP financial information is provided above.
+Serialized (65 tokens):
+NON-GAAP FINANCIAL INFORMATION
+Non-GAAP information is not prepared under a comprehensive set of accounting rules and therefore, should only be read in conjunction with financial information reported under U.S. GAAP when understanding Tesla's operating performance. A reconciliation between GAAP and non-GAAP financial information is provided above.
+
+=== Chunk 111 ===
+Text (252 tokens):
+Certain statements in this update, including, but not limited to, statements in the 'Outlook' section; statements relating to the development, strategy, ramp, production and capacity, demand and market growth, cost, pricing and profitability, investment, deliveries, deployment, availability and other features and improvements and timing of existing and future Tesla products and services; statements regarding operating margin, operating profits, spending and liquidity; and statements regarding expansion, improvements and/or ramp and related timing at our factories are 'forward-looking statements' within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on assumptions and management's current expectations, involve certain risks and uncertainties, and are not guarantees. Future results may differ materially from those expressed in any forward-looking statement. The following important factors, without limitation, could cause actual results to differ materially from those in the forward-looking statements: the risk of delays in launching and/or manufacturing our products, services and features cost-effectively; our ability to build and/or grow our products and services, sales, delivery, installation, servicing and charging capabilities and effectively manage this growth; our ability to successfully and timely develop, introduce and scale, as well as our
+Serialized (256 tokens):
+FORWARD-LOOKING STATEMENTS
+Certain statements in this update, including, but not limited to, statements in the 'Outlook' section; statements relating to the development, strategy, ramp, production and capacity, demand and market growth, cost, pricing and profitability, investment, deliveries, deployment, availability and other features and improvements and timing of existing and future Tesla products and services; statements regarding operating margin, operating profits, spending and liquidity; and statements regarding expansion, improvements and/or ramp and related timing at our factories are 'forward-looking statements' within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on assumptions and management's current expectations, involve certain risks and uncertainties, and are not guarantees. Future results may differ materially from those expressed in any forward-looking statement. The following important factors, without limitation, could cause actual results to differ materially from those in the forward-looking statements: the risk of delays in launching and/or manufacturing our products, services and features cost-effectively; our ability to build and/or grow our products and services, sales, delivery, installation, servicing and charging capabilities and effectively manage this growth; our ability to successfully and timely develop, introduce and scale, as well as our
+
+=== Chunk 112 ===
+Text (252 tokens):
+consumers' demand for, products and services based on artificial intelligence, robotics and automation, electric vehicles, Autopilot and FSD (Supervised) features, and ride-hailing services generally and our vehicles and services specifically; the ability of suppliers to deliver components according to schedules, prices, quality and volumes acceptable to us, and our ability to manage such components effectively; any issues with lithium-ion cells or other components manufactured at our factories; our ability to ramp our factories in accordance with our plans; our ability to procure supply of battery cells, including through our own manufacturing; risks relating to international expansion; any failures by Tesla products to perform as expected or if product recalls occur; the risk of product liability claims; competition in the automotive, transportation and energy product and services markets; our ability to maintain public credibility and confidence in our longterm business prospects; our ability to manage risks relating to our various product financing programs; the status of government and economic incentives for electric vehicles and energy products; our ability to attract, hire and retain key employees and qualified personnel; our ability to maintain the security of our information and production and product systems; our compliance with various regulations and laws applicable to our operations and products, which may evolve from time to time;
+Serialized (256 tokens):
+FORWARD-LOOKING STATEMENTS
+consumers' demand for, products and services based on artificial intelligence, robotics and automation, electric vehicles, Autopilot and FSD (Supervised) features, and ride-hailing services generally and our vehicles and services specifically; the ability of suppliers to deliver components according to schedules, prices, quality and volumes acceptable to us, and our ability to manage such components effectively; any issues with lithium-ion cells or other components manufactured at our factories; our ability to ramp our factories in accordance with our plans; our ability to procure supply of battery cells, including through our own manufacturing; risks relating to international expansion; any failures by Tesla products to perform as expected or if product recalls occur; the risk of product liability claims; competition in the automotive, transportation and energy product and services markets; our ability to maintain public credibility and confidence in our longterm business prospects; our ability to manage risks relating to our various product financing programs; the status of government and economic incentives for electric vehicles and energy products; our ability to attract, hire and retain key employees and qualified personnel; our ability to maintain the security of our information and production and product systems; our compliance with various regulations and laws applicable to our operations and products, which may evolve from time to time;
+
+=== Chunk 113 ===
+Text (117 tokens):
+risks relating to our indebtedness and financing strategies; and adverse foreign exchange movements. More information on potential factors that could affect our financial results is included from time to time in our Securities and Exchange Commission filings and reports, including the risks identified under the section captioned 'Risk Factors' in our annual report on Form 10-K filed with the SEC on January 26, 2024 and subsequent quarterly reports on Form 10-Q. Tesla disclaims any obligation to update information contained in these forward-looking statements whether as a result of new information, future events or otherwise.
+Serialized (121 tokens):
+FORWARD-LOOKING STATEMENTS
+risks relating to our indebtedness and financing strategies; and adverse foreign exchange movements. More information on potential factors that could affect our financial results is included from time to time in our Securities and Exchange Commission filings and reports, including the risks identified under the section captioned 'Risk Factors' in our annual report on Form 10-K filed with the SEC on January 26, 2024 and subsequent quarterly reports on Form 10-Q. Tesla disclaims any obligation to update information contained in these forward-looking statements whether as a result of new information, future events or otherwise.
+
