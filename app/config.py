@@ -27,6 +27,10 @@ class Settings(BaseSettings):
     # Collection
     COLLECTION_NAME: str = "documents"
     
+    # Caching and Vector DB Management
+    CACHE_DIR: str = "./data/cache"
+    CLEAR_VECTORDB_ON_CHAT: bool = False  # Whether to clear vector DB on new chat
+    
     class Config:
         env_file = ".env"
 

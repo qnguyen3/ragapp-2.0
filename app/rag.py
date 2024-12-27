@@ -1,6 +1,8 @@
 import logging
+import hashlib
+import pickle
 from pathlib import Path
-from typing import List, Set
+from typing import List, Set, Optional
 
 import chromadb
 from chromadb.utils import embedding_functions
@@ -16,6 +18,9 @@ class RAGService:
     def __init__(self):
         """Initialize the RAG service with necessary components."""
         try:
+            # Create cache directory if it doesn't exist
+            Path(settings.CACHE_DIR).mkdir(parents=True, exist_ok=True)
+            
             # Initialize ChromaDB
             self.chroma_client = chromadb.PersistentClient(
                 path=settings.CHROMA_DB_PATH
@@ -50,6 +55,39 @@ class RAGService:
             logger.error(f"Failed to initialize RAG service: {e}")
             raise
 
+    def _get_document_hash(self, file_path: str | Path) -> str:
+        """Get hash of document for caching."""
+        with open(file_path, 'rb') as f:
+            return hashlib.md5(f.read()).hexdigest()
+
+    def _cache_chunks(self, doc_hash: str, chunks: List) -> None:
+        """Cache processed chunks."""
+        cache_path = Path(settings.CACHE_DIR) / f"{doc_hash}.pkl"
+        with open(cache_path, 'wb') as f:
+            pickle.dump(chunks, f)
+
+    def _get_cached_chunks(self, doc_hash: str) -> Optional[List]:
+        """Get cached chunks if they exist."""
+        cache_path = Path(settings.CACHE_DIR) / f"{doc_hash}.pkl"
+        if cache_path.exists():
+            with open(cache_path, 'rb') as f:
+                return pickle.load(f)
+        return None
+
+    def clear_collection(self) -> None:
+        """Clear all documents from the collection."""
+        try:
+            # Get all document IDs first
+            results = self.collection.get()
+            if results and results['ids']:
+                self.collection.delete(ids=results['ids'])
+                logger.info(f"Cleared {len(results['ids'])} documents from vector database")
+            else:
+                logger.info("No documents to clear from vector database")
+        except Exception as e:
+            logger.error(f"Failed to clear collection: {e}")
+            raise
+
     def ingest_pdf(self, pdf_path: str | Path) -> None:
         """
         Ingest a PDF file into the vector database.
@@ -62,8 +100,19 @@ class RAGService:
         """
         logger.info(f"Ingesting PDF: {pdf_path}")
         try:
-            # Process PDF and get chunks
-            chunks = self.pdf_workflow.process(pdf_path)
+            # Check cache first
+            doc_hash = self._get_document_hash(pdf_path)
+            chunks = self._get_cached_chunks(doc_hash)
+            
+            if not chunks:
+                logger.info("No cached chunks found, processing PDF...")
+                # Process PDF and get chunks
+                chunks = self.pdf_workflow.process(pdf_path)
+                # Cache the chunks
+                self._cache_chunks(doc_hash, chunks)
+                logger.info("Cached processed chunks")
+            else:
+                logger.info("Using cached chunks")
             
             # Get IDs of existing chunks for this document
             existing_chunks = self.collection.get(
@@ -116,15 +165,28 @@ class RAGService:
         """
         logger.info(f"Processing query: {question}")
         try:
+            # Check if there are any documents in the collection
+            all_docs = self.collection.get()
+            doc_count = len(all_docs['ids']) if all_docs and 'ids' in all_docs else 0
+            logger.info(f"Current document count in collection: {doc_count}")
+            
+            if doc_count == 0:
+                return "No documents have been uploaded yet. Please upload a document first."
+            
             # Get relevant chunks from ChromaDB with metadata
             results = self.collection.query(
                 query_texts=[question],
-                n_results=n_results,
+                n_results=min(n_results, doc_count),  # Don't request more chunks than we have
                 include=['documents', 'metadatas']
             )
             
-            if not results['documents'][0]:
+            logger.info(f"Query results: {results}")  # Log full results for debugging
+            
+            if not results['documents'] or not results['documents'][0]:
+                logger.warning("Query returned no relevant chunks")
                 return "No relevant information found in the documents."
+                
+            logger.info(f"Found {len(results['documents'][0])} relevant chunks")
             
             # Construct context with all chunks and their sources
             context_parts = []

@@ -77,6 +77,11 @@ async def get_chat_session(chat_id: str) -> ChatSession:
 async def create_chat(chat: ChatSessionCreate):
     """Create a new chat session."""
     try:
+        # Clear vector DB if configured
+        if settings.CLEAR_VECTORDB_ON_CHAT:
+            logger.info("Clearing vector database for new chat session")
+            rag_service.clear_collection()
+            
         chat_session = ChatSession(**chat.dict())
         await chat_session.insert()
         return await chat_session.to_response_dict()
